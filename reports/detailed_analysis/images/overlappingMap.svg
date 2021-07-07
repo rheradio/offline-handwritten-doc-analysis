@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="880" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 880 120" height="120" preserveAspectRatio="xMidYMid meet" version="1.0">
+<defs id="defs4">
+<marker refY="0" preserveAspectRatio="xMidYMid meet" id="TriangleOutL" style="overflow:visible" orient="auto" refX="0">
+<path style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none" d="M 5.77,0 L -2.88,5 L -2.88,-5 L 5.77,0 z" transform="scale(0.8,0.8)"/>
+</marker>
+</defs>
+<circle fill="#FFFFFF" r="40" cx="40" cy="80" stroke="#000000"/>
+<text x="40" y="80" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">44</text>
+<line x1="40" x2="80" y1="40" style="marker-end:url(#TriangleOutL)" y2="0" stroke="black" stroke-width="1"/>
+<text x="60" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(-45 60 20)" text-anchor="middle">1</text>
+<circle fill="#FFFFFF" r="40" cx="200" cy="80" stroke="#000000"/>
+<text x="200" y="80" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">75</text>
+<line x1="160" x2="200" y1="0" style="marker-end:url(#TriangleOutL)" y2="40" stroke="black" stroke-width="1"/>
+<text x="180" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(45 180 20)" text-anchor="middle">32</text>
+<line x1="80" x2="160" y1="80" style="marker-end:url(#TriangleOutL)" y2="80" stroke="black" stroke-width="1"/>
+<text x="120" y="75" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">43 (0.98)</text>
+<line x1="200" x2="240" y1="40" style="marker-end:url(#TriangleOutL)" y2="0" stroke="black" stroke-width="1"/>
+<text x="220" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(-45 220 20)" text-anchor="middle">15</text>
+<circle fill="#FFFFFF" r="40" cx="360" cy="80" stroke="#000000"/>
+<text x="360" y="80" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">84</text>
+<line x1="320" x2="360" y1="0" style="marker-end:url(#TriangleOutL)" y2="40" stroke="black" stroke-width="1"/>
+<text x="340" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(45 340 20)" text-anchor="middle">24</text>
+<line x1="240" x2="320" y1="80" style="marker-end:url(#TriangleOutL)" y2="80" stroke="black" stroke-width="1"/>
+<text x="280" y="75" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">60 (0.8)</text>
+<line x1="360" x2="400" y1="40" style="marker-end:url(#TriangleOutL)" y2="0" stroke="black" stroke-width="1"/>
+<text x="380" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(-45 380 20)" text-anchor="middle">11</text>
+<circle fill="#FFFFFF" r="40" cx="520" cy="80" stroke="#000000"/>
+<text x="520" y="80" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">98</text>
+<line x1="480" x2="520" y1="0" style="marker-end:url(#TriangleOutL)" y2="40" stroke="black" stroke-width="1"/>
+<text x="500" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(45 500 20)" text-anchor="middle">25</text>
+<line x1="400" x2="480" y1="80" style="marker-end:url(#TriangleOutL)" y2="80" stroke="black" stroke-width="1"/>
+<text x="440" y="75" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">73 (0.87)</text>
+<line x1="520" x2="560" y1="40" style="marker-end:url(#TriangleOutL)" y2="0" stroke="black" stroke-width="1"/>
+<text x="540" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(-45 540 20)" text-anchor="middle">7</text>
+<circle fill="#FFFFFF" r="40" cx="680" cy="80" stroke="#000000"/>
+<text x="680" y="80" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">121</text>
+<line x1="640" x2="680" y1="0" style="marker-end:url(#TriangleOutL)" y2="40" stroke="black" stroke-width="1"/>
+<text x="660" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(45 660 20)" text-anchor="middle">30</text>
+<line x1="560" x2="640" y1="80" style="marker-end:url(#TriangleOutL)" y2="80" stroke="black" stroke-width="1"/>
+<text x="600" y="75" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">91 (0.93)</text>
+<line x1="680" x2="720" y1="40" style="marker-end:url(#TriangleOutL)" y2="0" stroke="black" stroke-width="1"/>
+<text x="700" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(-45 700 20)" text-anchor="middle">4</text>
+<circle fill="#FFFFFF" r="40" cx="840" cy="80" stroke="#000000"/>
+<text x="840" y="80" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">140</text>
+<line x1="800" x2="840" y1="0" style="marker-end:url(#TriangleOutL)" y2="40" stroke="black" stroke-width="1"/>
+<text x="820" y="15" style="font-size:10px;fill:#000000;font-family:Verdana" transform="rotate(45 820 20)" text-anchor="middle">23</text>
+<line x1="720" x2="800" y1="80" style="marker-end:url(#TriangleOutL)" y2="80" stroke="black" stroke-width="1"/>
+<text x="760" y="75" style="font-size:10px;fill:#000000;font-family:Verdana" text-anchor="middle">117 (0.97)</text>
+</svg>
+

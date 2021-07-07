@@ -1,0 +1,58 @@
+*vertices 26
+1 "TEXT RECOGNITION" ic Yellow bc Yellow x_fact 3.0 y_fact 3.0
+2 "FEATURE-EXTRACTION" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+3 "CHARACTER RECOGNITION" ic Red bc Red x_fact 10.0 y_fact 10.0
+4 "SEGMENTATION" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
+5 "NN" ic Red bc Red x_fact 2.0 y_fact 2.0
+6 "DIGIT RECOGNITION" ic White bc Black x_fact 1.0 y_fact 1.0
+7 "CLASSIFICATION" ic White bc Black x_fact 2.0 y_fact 2.0
+8 "HMM" ic White bc Black x_fact 1.0 y_fact 1.0
+9 "NUMERAL RECOGNITION" ic Red bc Red x_fact 3.0 y_fact 3.0
+10 "PREPROCESSING" ic Red bc Red x_fact 3.0 y_fact 3.0
+11 "WORD RECOGNITION" ic White bc Black x_fact 2.0 y_fact 2.0
+12 "ARABIC TEXT RECOGNITION" ic Red bc Red x_fact 1.0 y_fact 1.0
+13 "TEMPLATE MATCHING" ic Red bc Red x_fact 3.0 y_fact 3.0
+14 "KNN" ic White bc Black x_fact 1.0 y_fact 1.0
+15 "FUZZY LOGIC" ic White bc Black x_fact 1.0 y_fact 1.0
+16 "JAPANESE TEXT RECOGNITION" ic Red bc Red x_fact 2.0 y_fact 2.0
+17 "STRUCTURAL-FEATURES" ic White bc Black x_fact 3.0 y_fact 3.0
+18 "ENSEMBLE CLASSIFICATION" ic Red bc Red x_fact 1.0 y_fact 1.0
+19 "STATISTICAL MODEL" ic Red bc Red x_fact 4.0 y_fact 4.0
+20 "MATHEMATICAL TRANSFORM" ic White bc Black x_fact 1.0 y_fact 1.0
+21 "GRAPH" ic Red bc Red x_fact 1.0 y_fact 1.0
+22 "DECISION TREE" ic Red bc Red x_fact 1.0 y_fact 1.0
+23 "AFFINE-TRANSFORMATION" ic White bc Black x_fact 2.0 y_fact 2.0
+24 "MLP" ic Red bc Red x_fact 1.0 y_fact 1.0
+25 "GRAPHEME-ANALYSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+26 "CHINESE CHARACTER RECOGNITION" ic White bc Black x_fact 3.0 y_fact 3.0
+*edges
+1 2 1.4815 c Yellow
+1 3 0.3226 c Black
+1 4 0.7407 c Yellow
+3 4 0.2151 c Black
+3 5 0.4839 c Red
+3 9 0.4147 c Red
+3 10 1.1521 c Red
+3 12 0.6452 c Red
+3 13 1.1521 c Red
+3 16 0.5806 c Red
+3 17 0.3629 c Black
+3 18 0.4301 c Red
+3 19 1.5806 c Red
+3 21 0.4301 c Red
+3 22 0.6452 c Red
+3 23 0.2581 c Black
+3 24 0.6452 c Red
+3 26 0.1434 c Black
+5 11 1.3333 c Black
+5 16 1.3333 c Red
+7 9 1.1429 c Black
+8 11 4.0000 c Gray95
+9 16 1.1429 c Red
+10 13 0.8163 c Red
+13 17 0.7143 c Black
+13 19 1.2857 c Red
+17 18 1.6667 c Black
+17 19 0.5000 c Black
+17 26 2.2222 c Gray95
+19 23 0.8000 c Black

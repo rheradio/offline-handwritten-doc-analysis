@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="800" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 800 800" height="800" preserveAspectRatio="xMidYMid meet" version="1.0">
+<radialGradient xlink:actuate="onLoad" xlink:type="simple" id="sphereTheme" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop style="stop-color:#C6DD3A" offset="0"/>
+<stop style="stop-color:#C3DA39" offset="0.211"/>
+<stop style="stop-color:#B8CF37" offset="0.3881"/>
+<stop style="stop-color:#A7BE34" offset="0.5529"/>
+<stop style="stop-color:#8EA630" offset="0.7103"/>
+<stop style="stop-color:#6F872A" offset="0.861"/>
+<stop style="stop-color:#4B6323" offset="1"/>
+</radialGradient>
+<line y2="400" stroke-width="1" x1="60" x2="740" stroke="black" y1="400"/>
+<line y2="740" stroke-width="1" x1="400" x2="400" stroke="black" y1="60"/>
+<text x="730" y="400" id="text23" style="font-size:12px;text-anchor:end;fill:#000000;font-family:Verdana">centrality</text>
+<text x="400" y="60" id="text24" style="font-size:12px;text-anchor:end;fill:#000000;font-family:Verdana">density</text>
+<line y2="0" stroke-width="1" x1="0" x2="799" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
+<line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
+<circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="468.0"/>
+<text x="740.0" y="468.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHARACTER RECOGNITION<tspan x="740.0" id="text25" y="483.0">164</tspan>
+</text>
+<circle id="circle15" r="49.75609756097561" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="604.0" cy="196.0"/>
+<text x="604.0" y="196.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HMM<tspan x="604.0" id="text25" y="211.0">122</tspan>
+</text>
+<circle id="circle15" r="35.36585365853659" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="332.0" cy="604.0"/>
+<text x="332.0" y="604.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION<tspan x="332.0" id="text25" y="619.0">63</tspan>
+</text>
+<circle id="circle15" r="34.390243902439025" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="468.0" cy="332.0"/>
+<text x="468.0" y="332.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHINESE CHARACTER RECOGNITION<tspan x="468.0" id="text25" y="347.0">59</tspan>
+</text>
+<circle id="circle15" r="25.609756097560975" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="196.0" cy="60.0"/>
+<text x="196.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">WRITER IDENTIFICATION<tspan x="196.0" id="text25" y="75.0">23</tspan>
+</text>
+</svg>
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="800" zoomAndPan="magnify" contentStyleType="text/css" viewBox="0 0 800 800" height="800" preserveAspectRatio="xMidYMid meet" version="1.0">
+<radialGradient xlink:actuate="onLoad" xlink:type="simple" id="sphereTheme" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop style="stop-color:#C6DD3A" offset="0"/>
+<stop style="stop-color:#C3DA39" offset="0.211"/>
+<stop style="stop-color:#B8CF37" offset="0.3881"/>
+<stop style="stop-color:#A7BE34" offset="0.5529"/>
+<stop style="stop-color:#8EA630" offset="0.7103"/>
+<stop style="stop-color:#6F872A" offset="0.861"/>
+<stop style="stop-color:#4B6323" offset="1"/>
+</radialGradient>
+<line y2="0" stroke-width="1" x1="0" x2="799" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
+<line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
+<line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
+<line x1="677.1638597533861" x2="400.0" y1="514.8050297095269" style="stroke-width:0.8275862068965517;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
+<line x1="161.99399791262948" x2="400.0" y1="582.6284287026162" style="stroke-width:0.3448275862068966;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
+<line x1="360.84214233398427" x2="400.0" y1="102.56654158785693" style="stroke-width:0.7758620689655172;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
+<circle id="circle0" r="36.21621621621622" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="677.1638597533861" cy="514.8050297095269"/>
+<text x="677.1638597533861" y="514.8050297095269" id="text50" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">PREPROCESSING</text>
+<circle id="circle1" r="24.324324324324323" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="161.99399791262948" cy="582.6284287026162"/>
+<text x="161.99399791262948" y="582.6284287026162" id="text51" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">GRAPH</text>
+<circle id="circle2" r="24.324324324324323" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="360.84214233398427" cy="102.56654158785693"/>
+<text x="360.84214233398427" y="102.56654158785693" id="text52" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">DIRECTIONAL-FEATURE</text>
+<circle id="circle3" r="51.351351351351354" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="400.0" cy="400.0"/>
+<text x="400.0" y="400.0" id="text53" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHINESE CHARACTER RECOGNITION</text>
+</svg>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" contentScriptType="text/ecmascript" width="1260" zoomAndPan="magnify" contentStyleType="text/css" height="449" preserveAspectRatio="xMidYMid meet" version="1.0">
+<radialGradient xlink:actuate="onLoad" xlink:type="simple" id="sphereTheme" xlink:show="other" xmlns:xlink="http://www.w3.org/1999/xlink">
+<stop style="stop-color:#C6DD3A" offset="0"/>
+<stop style="stop-color:#C3DA39" offset="0.211"/>
+<stop style="stop-color:#B8CF37" offset="0.3881"/>
+<stop style="stop-color:#A7BE34" offset="0.5529"/>
+<stop style="stop-color:#8EA630" offset="0.7103"/>
+<stop style="stop-color:#6F872A" offset="0.861"/>
+<stop style="stop-color:#4B6323" offset="1"/>
+</radialGradient>
+<circle fill="url(#sphereTheme)" r="16.48890479599141" cx="30" cy="30"/>
+<text x="46.48890479599141" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CHARACTER RECOGNITION</text>
+<circle fill="url(#sphereTheme)" r="6.1542591267000715" cx="30" cy="254"/>
+<text x="36.15425912670007" y="254" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">TEXT RECOGNITION</text>
+<circle fill="url(#sphereTheme)" r="27.08303507516106" cx="240" cy="30"/>
+<text x="267.08303507516104" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CHARACTER RECOGNITION</text>
+<circle fill="url(#sphereTheme)" r="9.93915533285612" cx="240" cy="119"/>
+<text x="249.93915533285613" y="119" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION</text>
+<circle fill="url(#sphereTheme)" r="8.435934144595562" cx="240" cy="208"/>
+<text x="248.43593414459556" y="208" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CHINESE CHARACTER RECOGNITION</text>
+<circle fill="url(#sphereTheme)" r="5.313171080887616" cx="240" cy="297"/>
+<text x="245.31317108088763" y="297" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">WORD SPOTTING</text>
+<circle fill="url(#sphereTheme)" r="6.709019327129563" cx="240" cy="386"/>
+<text x="246.70901932712957" y="386" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">DIGIT RECOGNITION</text>
+<line y2="30.0" stroke-width="2.5" x1="46.48890479599141" x2="212.91696492483894" stroke="black" y1="30.0"/>
+<line y2="119.0" stroke-width="1.4285714285714284" x1="46.48890479599141" x2="230.06084466714387" stroke="black" y1="30.0"/>
+<line x1="46.48890479599141" x2="231.56406585540444" y1="30.0" style="stroke-dasharray: 9, 5" y2="208.0" stroke="black" stroke-width="2.5"/>
+<line x1="36.15425912670007" x2="212.91696492483894" y1="254.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line x1="36.15425912670007" x2="230.06084466714387" y1="254.0" style="stroke-dasharray: 9, 5" y2="119.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line y2="297.0" stroke-width="1.6666666666666665" x1="36.15425912670007" x2="234.68682891911237" stroke="black" y1="254.0"/>
+<circle fill="url(#sphereTheme)" r="26.581961345740876" cx="450" cy="30"/>
+<text x="476.58196134574086" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">HMM</text>
+<circle fill="url(#sphereTheme)" r="25.58876163206872" cx="450" cy="119"/>
+<text x="475.5887616320687" y="119" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CHARACTER RECOGNITION</text>
+<circle fill="url(#sphereTheme)" r="6.2168933428775945" cx="450" cy="208"/>
+<text x="456.2168933428776" y="208" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CHINESE CHARACTER RECOGNITION</text>
+<circle fill="url(#sphereTheme)" r="8.614889047959913" cx="450" cy="297"/>
+<text x="458.61488904795993" y="297" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION</text>
+<circle fill="url(#sphereTheme)" r="23.11023622047244" cx="450" cy="386"/>
+<text x="473.1102362204724" y="386" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">WRITER IDENTIFICATION</text>
+<line y2="30.0" stroke-width="0.8333333333333333" x1="267.08303507516104" x2="423.41803865425914" stroke="black" y1="30.0"/>
+<line y2="119.0" stroke-width="3.333333333333333" x1="267.08303507516104" x2="424.4112383679313" stroke="black" y1="30.0"/>
+<line x1="249.93915533285613" x2="423.41803865425914" y1="119.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.7142857142857142"/>
+<line x1="249.93915533285613" x2="424.4112383679313" y1="119.0" style="stroke-dasharray: 9, 5" y2="119.0" stroke="black" stroke-width="1.4285714285714284"/>
+<line x1="249.93915533285613" x2="443.7831066571224" y1="119.0" style="stroke-dasharray: 9, 5" y2="208.0" stroke="black" stroke-width="0.7142857142857142"/>
+<line y2="297.0" stroke-width="3.0" x1="249.93915533285613" x2="441.38511095204007" stroke="black" y1="119.0"/>
+<line x1="248.43593414459556" x2="423.41803865425914" y1="208.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="1.25"/>
+<line x1="248.43593414459556" x2="424.4112383679313" y1="208.0" style="stroke-dasharray: 9, 5" y2="119.0" stroke="black" stroke-width="1.25"/>
+<line y2="208.0" stroke-width="1.25" x1="248.43593414459556" x2="443.7831066571224" stroke="black" y1="208.0"/>
+<line x1="245.31317108088763" x2="423.41803865425914" y1="297.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line x1="246.70901932712957" x2="423.41803865425914" y1="386.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line y2="297.0" stroke-width="1.6666666666666665" x1="246.70901932712957" x2="441.38511095204007" stroke="black" y1="386.0"/>
+<circle fill="url(#sphereTheme)" r="20.694345025053686" cx="660" cy="30"/>
+<text x="680.6943450250537" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SVM</text>
+<circle fill="url(#sphereTheme)" r="23.691839656406586" cx="660" cy="142"/>
+<text x="683.6918396564066" y="142" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">HMM</text>
+<circle fill="url(#sphereTheme)" r="9.017537580529707" cx="660" cy="254"/>
+<text x="669.0175375805297" y="254" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SEGMENTATION</text>
+<circle fill="url(#sphereTheme)" r="5.903722261989978" cx="660" cy="366"/>
+<text x="665.90372226199" y="366" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SIGNATUR VERIFICATION</text>
+<line x1="476.58196134574086" x2="639.3056549749463" y1="30.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line y2="142.0" stroke-width="2.916666666666667" x1="476.58196134574086" x2="636.3081603435934" stroke="black" y1="30.0"/>
+<line x1="476.58196134574086" x2="650.9824624194703" y1="30.0" style="stroke-dasharray: 9, 5" y2="254.0" stroke="black" stroke-width="0.4545454545454546"/>
+<line y2="30.0" stroke-width="1.25" x1="475.5887616320687" x2="639.3056549749463" stroke="black" y1="119.0"/>
+<line x1="475.5887616320687" x2="636.3081603435934" y1="119.0" style="stroke-dasharray: 9, 5" y2="142.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line y2="254.0" stroke-width="1.8181818181818183" x1="475.5887616320687" x2="650.9824624194703" stroke="black" y1="119.0"/>
+<line y2="30.0" stroke-width="1.25" x1="456.2168933428776" x2="639.3056549749463" stroke="black" y1="208.0"/>
+<line x1="456.2168933428776" x2="654.09627773801" y1="208.0" style="stroke-dasharray: 9, 5" y2="366.0" stroke="black" stroke-width="1.0"/>
+<line x1="458.61488904795993" x2="639.3056549749463" y1="297.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="1.0"/>
+<line y2="254.0" stroke-width="1.0" x1="458.61488904795993" x2="650.9824624194703" stroke="black" y1="297.0"/>
+<line y2="254.0" stroke-width="1.25" x1="473.1102362204724" x2="650.9824624194703" stroke="black" y1="386.0"/>
+<line y2="366.0" stroke-width="2.5" x1="473.1102362204724" x2="654.09627773801" stroke="black" y1="386.0"/>
+<circle fill="url(#sphereTheme)" r="28.917322834645667" cx="870" cy="30"/>
+<text x="898.9173228346457" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CHARACTER RECOGNITION</text>
+<circle fill="url(#sphereTheme)" r="12.498210450966358" cx="870" cy="94"/>
+<text x="882.4982104509663" y="94" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SEGMENTATION</text>
+<circle fill="url(#sphereTheme)" r="12.954545454545453" cx="870" cy="158"/>
+<text x="882.9545454545455" y="158" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">HMM</text>
+<circle fill="url(#sphereTheme)" r="8.462777380100215" cx="870" cy="222"/>
+<text x="878.4627773801002" y="222" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">CLASSIFICATION</text>
+<circle fill="url(#sphereTheme)" r="5.563707945597709" cx="870" cy="286"/>
+<text x="875.5637079455977" y="286" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">WRITER IDENTIFICATION</text>
+<circle fill="url(#sphereTheme)" r="5.268432355046528" cx="870" cy="350"/>
+<text x="875.2684323550466" y="350" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">MLP</text>
+<circle fill="url(#sphereTheme)" r="5.456335003579098" cx="870" cy="414"/>
+<text x="875.456335003579" y="414" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">HISTORICAL-DOCUMENTS</text>
+<line y2="30.0" stroke-width="2.5" x1="680.6943450250537" x2="841.0826771653543" stroke="black" y1="30.0"/>
+<line y2="222.0" stroke-width="1.6666666666666665" x1="680.6943450250537" x2="861.5372226198998" stroke="black" y1="30.0"/>
+<line x1="680.6943450250537" x2="864.4362920544023" y1="30.0" style="stroke-dasharray: 9, 5" y2="286.0" stroke="black" stroke-width="1.0"/>
+<line x1="683.6918396564066" x2="841.0826771653543" y1="142.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="683.6918396564066" x2="857.5017895490337" y1="142.0" style="stroke-dasharray: 9, 5" y2="94.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line y2="158.0" stroke-width="1.6666666666666665" x1="683.6918396564066" x2="857.0454545454545" stroke="black" y1="142.0"/>
+<line x1="683.6918396564066" x2="861.5372226198998" y1="142.0" style="stroke-dasharray: 9, 5" y2="222.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="683.6918396564066" x2="864.7315676449534" y1="142.0" style="stroke-dasharray: 9, 5" y2="350.0" stroke="black" stroke-width="1.25"/>
+<line x1="683.6918396564066" x2="864.543664996421" y1="142.0" style="stroke-dasharray: 9, 5" y2="414.0" stroke="black" stroke-width="1.6666666666666665"/>
+<line x1="669.0175375805297" x2="841.0826771653543" y1="254.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.9090909090909092"/>
+<line y2="94.0" stroke-width="0.9090909090909092" x1="669.0175375805297" x2="857.5017895490337" stroke="black" y1="254.0"/>
+<line x1="669.0175375805297" x2="861.5372226198998" y1="254.0" style="stroke-dasharray: 9, 5" y2="222.0" stroke="black" stroke-width="0.9090909090909092"/>
+<line y2="286.0" stroke-width="1.0" x1="669.0175375805297" x2="864.4362920544023" stroke="black" y1="254.0"/>
+<line x1="669.0175375805297" x2="864.7315676449534" y1="254.0" style="stroke-dasharray: 9, 5" y2="350.0" stroke="black" stroke-width="1.25"/>
+<line y2="414.0" stroke-width="1.6666666666666665" x1="669.0175375805297" x2="864.543664996421" stroke="black" y1="254.0"/>
+<line x1="665.90372226199" x2="841.0826771653543" y1="366.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="2.0"/>
+<line y2="222.0" stroke-width="1.0" x1="665.90372226199" x2="861.5372226198998" stroke="black" y1="366.0"/>
+<circle fill="url(#sphereTheme)" r="30.0" cx="1080" cy="30"/>
+<text x="1110.0" y="30" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">DNN</text>
+<circle fill="url(#sphereTheme)" r="17.177881173944165" cx="1080" cy="94"/>
+<text x="1097.1778811739441" y="94" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SVM</text>
+<circle fill="url(#sphereTheme)" r="10.037580529706513" cx="1080" cy="158"/>
+<text x="1090.0375805297065" y="158" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">SEGMENTATION</text>
+<circle fill="url(#sphereTheme)" r="8.194345025053687" cx="1080" cy="222"/>
+<text x="1088.1943450250537" y="222" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">ENSEMBLE CLASSIFICATION</text>
+<circle fill="url(#sphereTheme)" r="5.930565497494631" cx="1080" cy="286"/>
+<text x="1085.9305654974946" y="286" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">HMM</text>
+<circle fill="url(#sphereTheme)" r="5.4294917680744454" cx="1080" cy="350"/>
+<text x="1085.4294917680745" y="350" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">WRITER IDENTIFICATION</text>
+<circle fill="url(#sphereTheme)" r="5.6263421617752325" cx="1080" cy="414"/>
+<text x="1085.6263421617753" y="414" id="text23" style="font-size:10px;text-anchor:start;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION</text>
+<line y2="30.0" stroke-width="0.8333333333333333" x1="898.9173228346457" x2="1050.0" stroke="black" y1="30.0"/>
+<line y2="94.0" stroke-width="2.5" x1="898.9173228346457" x2="1062.8221188260559" stroke="black" y1="30.0"/>
+<line x1="898.9173228346457" x2="1069.9624194702935" y1="30.0" style="stroke-dasharray: 9, 5" y2="158.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="898.9173228346457" x2="1071.8056549749463" y1="30.0" style="stroke-dasharray: 9, 5" y2="222.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line x1="898.9173228346457" x2="1074.5705082319255" y1="30.0" style="stroke-dasharray: 9, 5" y2="350.0" stroke="black" stroke-width="0.625"/>
+<line x1="882.4982104509663" x2="1050.0" y1="94.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="158.0" stroke-width="2.0833333333333335" x1="882.4982104509663" x2="1069.9624194702935" stroke="black" y1="94.0"/>
+<line x1="882.4982104509663" x2="1071.8056549749463" y1="94.0" style="stroke-dasharray: 9, 5" y2="222.0" stroke="black" stroke-width="1.25"/>
+<line x1="882.9545454545455" x2="1050.0" y1="158.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line x1="882.9545454545455" x2="1069.9624194702935" y1="158.0" style="stroke-dasharray: 9, 5" y2="158.0" stroke="black" stroke-width="0.8333333333333333"/>
+<line y2="286.0" stroke-width="2.5" x1="882.9545454545455" x2="1074.0694345025054" stroke="black" y1="158.0"/>
+<line x1="878.4627773801002" x2="1050.0" y1="222.0" style="stroke-dasharray: 9, 5" y2="30.0" stroke="black" stroke-width="0.41666666666666663"/>
+<line y2="94.0" stroke-width="1.25" x1="878.4627773801002" x2="1062.8221188260559" stroke="black" y1="222.0"/>
+<line y2="222.0" stroke-width="1.6666666666666665" x1="878.4627773801002" x2="1071.8056549749463" stroke="black" y1="222.0"/>
+<line x1="875.5637079455977" x2="1062.8221188260559" y1="286.0" style="stroke-dasharray: 9, 5" y2="94.0" stroke="black" stroke-width="1.0"/>
+<line x1="875.5637079455977" x2="1069.9624194702935" y1="286.0" style="stroke-dasharray: 9, 5" y2="158.0" stroke="black" stroke-width="1.0"/>
+<line x1="875.5637079455977" x2="1071.8056549749463" y1="286.0" style="stroke-dasharray: 9, 5" y2="222.0" stroke="black" stroke-width="1.0"/>
+<line y2="350.0" stroke-width="2.0" x1="875.5637079455977" x2="1074.5705082319255" stroke="black" y1="286.0"/>
+<line x1="875.2684323550466" x2="1071.8056549749463" y1="350.0" style="stroke-dasharray: 9, 5" y2="222.0" stroke="black" stroke-width="1.25"/>
+<line y2="414.0" stroke-width="2.5" x1="875.2684323550466" x2="1074.3736578382247" stroke="black" y1="350.0"/>
+<line y2="158.0" stroke-width="1.6666666666666665" x1="875.456335003579" x2="1069.9624194702935" stroke="black" y1="414.0"/>
+<line x1="875.456335003579" x2="1074.0694345025054" y1="414.0" style="stroke-dasharray: 9, 5" y2="286.0" stroke="black" stroke-width="1.6666666666666665"/>
+</svg>
+
