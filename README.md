@@ -6,7 +6,10 @@ This repository provides the material accompanying the paper:
 
 *Victoria Ruiz, Ruben Heradio, Ernesto Aranda-Escolastico, Ángel Sánchez, and José F. Vélez. Examining the Literature from 1990 to 2020 on Off-line Handwritten Document Analysis.*
 
-Submitted for publication to the [Pattern Recognition Journal](https://www.journals.elsevier.com/pattern-recognition).
+Submitted for publication to the [Pattern Recognition Journal](https://www.journals.elsevier.com/pattern-recognition), and whose abstract is:
+
+> Providing computers with the ability to process handwriting is both important and challenging, since many difficulties (e.g. different writing styles, alphabets, languages, etc.) need to be overcome for addressing a variety of problems (text recognition, signature verification, writer identification, word spotting, etc.).
+This paper reviews the growing literature on off-line handwritten document analysis over the last thirty years. A sample of 5,389 articles published along years was examined using bibliometric techniques. This paper identifies (i) the most influential articles in the area, (ii) the most productive authors and their collaboration networks, (iii) the countries and institutions that have led research on the topic, (iv) the journals that have published most papers, and (v) the most relevant research topics and their evolution over the years.
 
 ## Bibliometric Analysis
 
