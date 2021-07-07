@@ -37,8 +37,7 @@ TITLE(
   </group>
   ```
   
-  * **Authors' names**. 
-[author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml)
+  * **Authors' names**. The file [author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml)
   ```
 meter aqui ejemplo de estandarizacion de autores
   ```
