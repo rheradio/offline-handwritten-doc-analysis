@@ -38,15 +38,15 @@ TITLE(
   ```
   
   * **Authors' names**. 
+[author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml)
+  ```
+meter aqui ejemplo de estandarizacion de autores
+  ```
   
-3. Lo que sea
+3. **Data analysis**. We performed the bibliometric analysis of the polished paper sample with the help of [SciMAT](https://sci2s.ugr.es/scimat/), which is an open-source tool (GPLv3). The file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) stores our paper sample and the configuration of our analysis. To use it:
 
-
-
-
-### SciMAT Database
-
-### Standardization
+  * First, [download SciMAT](https://sci2s.ugr.es/scimat/download.html).
+  * Then, run SciMAT and open the file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) with the SciMAT menu option [*File -> Open Project*](https://sci2s.ugr.es/scimat/software/v1.01/SciMAT-v1.0-userGuide.pdf)
 
 ## Results
 
