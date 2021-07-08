@@ -13,7 +13,7 @@ This paper reviews the growing literature on off-line handwritten document analy
 
 ## Bibliometric Analysis
 
-To examine systematically the literature from 1990 to 2020 on off-line handwritten document analysis, we followed a workflow structured in three phases:
+To examine the literature systematically from 1990 to 2020 on off-line handwritten document analysis, we followed a workflow structured in three phases:
 
 1. **Data retrieval**. The following query was run on [Scopus](https://www.scopus.com/) to gather [a sample of 5,389 papers](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scopus_raw_data/scopus_sample.ris) representative of the research area:
 ```
