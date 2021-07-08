@@ -57,7 +57,7 @@ TITLE(
 
 The results of our analysis are presented in two reports:
 
-1. **Exhaustive Detailed Results**. This [website](https://htmlpreview.github.io/?https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/reports/detailed_analysis/index.html)
-2. **Most Influential Papers**.
+1. A [website](https://htmlpreview.github.io/?https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/reports/detailed_analysis/index.html) reports in detail the **results of the science mapping of the paper sample** (i.e., the temporal evolution of the most relevant research topics and their inter-relationship).
+2. A [document](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/reports/most_influential_papers.pdf) that summarizes the **most influential papers** our analysis has detected.
 
 
