@@ -33,6 +33,7 @@ TITLE(
   * **Keywords**. Our analysis is built upon a bibliometric technique that processes keywords, and so it is mandatory to standardize them. For example, in the context of our study, the following keywords: *NN*, *NEURAL-NETWORKS*, *ARTIFICIAL-NEURAL-NETWORKS*, *NEURAL-NETWORK-MODEL*, etc. correspond to the same concept, and thus they were grouped as *NN*. The file [keyword_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/keyword_standardization.xml) specifies the keyword standardization as follows: 
   ```
   <group name="NN" stop="false">
+      <word>NN</word>
       <word>NEURAL-NETWORKS</word>
       <word>ARTIFICIAL-NEURAL-NETWORKS</word>
       <word>NEURAL-NETWORK-MODEL</word>
@@ -40,11 +41,13 @@ TITLE(
   </group>
   ```
   
-  * **Authors' names**. The file [author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml)
+  * **Authors' names**. Databases sometimes store slightly different versions of the same author's name. The file [author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml)
   ```
-meter aqui ejemplo de estandarizacion de autores
+  <group name="Suen, C.Y." stop="false">
+      <word>Suen, C.Y.</word>
+      <word>Suen, C.</word>
+  </group>
   ```
-  
 3. **Data analysis**. We performed the bibliometric analysis of the polished paper sample with the help of [SciMAT](https://sci2s.ugr.es/scimat/), which is an open-source tool (GPLv3). The file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) stores our paper sample and the configuration of our analysis. To use it:
 
   * First, [download SciMAT](https://sci2s.ugr.es/scimat/download.html).
