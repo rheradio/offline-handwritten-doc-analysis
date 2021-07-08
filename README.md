@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository provides the material accompanying the paper:
+This repository provides the material that accompanies the paper:
 
 *Victoria Ruiz, Ruben Heradio, Ernesto Aranda-Escolastico, Ángel Sánchez, and José F. Vélez. Examining the Literature from 1990 to 2020 on Off-line Handwritten Document Analysis.*
 
@@ -41,22 +41,23 @@ TITLE(
   </group>
   ```
   
-  * **Authors' names**. Databases sometimes store slightly different versions of the same author's name. The file [author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml)
+  * **Authors' names**. Databases sometimes store slightly different versions of the same author's name. The file [author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml) specifies the authors' name standardization. For example, the following excerpt specifies that *Suen, C.Y.* and *Suen, C.* refer to the same author.
   ```
   <group name="Suen, C.Y." stop="false">
       <word>Suen, C.Y.</word>
       <word>Suen, C.</word>
   </group>
   ```
-3. **Data analysis**. We performed the bibliometric analysis of the polished paper sample with the help of [SciMAT](https://sci2s.ugr.es/scimat/), which is an open-source tool (GPLv3). The file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) stores our paper sample and the configuration of our analysis. To use it:
+3. **Data analysis**. We performed the bibliometric analysis of the paper sample with the help of [SciMAT](https://sci2s.ugr.es/scimat/), which is an open-source tool (GPLv3). The file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) stores our paper sample andthe parameters we configured to undertake our analysis. To use it:
 
   * First, [download SciMAT](https://sci2s.ugr.es/scimat/download.html).
-  * Then, run SciMAT and open the file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) with the SciMAT menu option [*File -> Open Project*](https://sci2s.ugr.es/scimat/software/v1.01/SciMAT-v1.0-userGuide.pdf)
+  * Then, run SciMAT and open the file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) with the menu option [*File -> Open Project*](https://sci2s.ugr.es/scimat/software/v1.01/SciMAT-v1.0-userGuide.pdf)
 
 ## Results
 
-### Most Influential Papers
+The results of our analysis are presented in two reports:
 
-### Exhaustive Detailed Results
+1. **Exhaustive Detailed Results**. This [website](https://htmlpreview.github.io/?https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/reports/detailed_analysis/index.html)
+2. **Most Influential Papers**.
 
 
