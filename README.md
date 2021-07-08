@@ -41,7 +41,7 @@ TITLE(
   </group>
   ```
   
-  * **Authors' names**. Databases sometimes store slightly different versions of the same author's name. The file [author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml) specifies the authors' name standardization. For example, the following excerpt specifies that *Suen, C.Y.* and *Suen, C.* refer to the same author.
+  * **Authors' names**. Databases sometimes store slightly different versions of the same author's name. The file [author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml) specifies the authors' name standardization. For example, the following excerpt recognizes that *Suen, C.Y.* and *Suen, C.* refer to the same author.
   ```
   <group name="Suen, C.Y." stop="false">
       <word>Suen, C.Y.</word>
