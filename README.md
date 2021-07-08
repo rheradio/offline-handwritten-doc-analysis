@@ -30,7 +30,7 @@ TITLE(
 
 2. **Data cleaning and standardization**. Bibliographic data sometimes involves typographical errors and ambiguities that need to be corrected. In particular, the following bibliographic information was standardized:
 
-  * **Keywords**. Our analysis is built upon a bibliometric technique that processes keywords, and so it is mandatory to standardize them. For example, in the context of our study, the following keywords: *NN*, *NEURAL-NETWORKS*, *ARTIFICIAL-NEURAL-NETWORKS*, *NEURAL-NETWORK-MODEL*, etc. correspond to the same concept, and thus they were grouped as *NN*. The file [keyword_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/keyword_standardization.xml) specifies the keyword standardization as follows: 
+  + **Keywords**. Our analysis is built upon a bibliometric technique that processes keywords, and so it is mandatory to standardize them. For example, in the context of our study, the following keywords: *NN*, *NEURAL-NETWORKS*, *ARTIFICIAL-NEURAL-NETWORKS*, *NEURAL-NETWORK-MODEL*, etc. correspond to the same concept, and thus they were grouped as *NN*. The file [keyword_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/keyword_standardization.xml) specifies the keyword standardization as follows: 
   ```
   <group name="NN" stop="false">
       <word>NN</word>
@@ -40,8 +40,7 @@ TITLE(
       ...
   </group>
   ```
-  
-  * **Authors' names**. Databases sometimes store slightly different versions of the same author's name. The file [author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml) specifies the authors' name standardization. For example, the following excerpt recognizes that *Suen, C.Y.* and *Suen, C.* refer to the same author.
+  + **Authors' names**. Databases sometimes store slightly different versions of the same author's name. The file [author_name_standardization.xml](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/standardization/author_name_standardization.xml) specifies the authors' name standardization. For example, the following excerpt recognizes that *Suen, C.Y.* and *Suen, C.* refer to the same author.
   ```
   <group name="Suen, C.Y." stop="false">
       <word>Suen, C.Y.</word>
@@ -50,8 +49,8 @@ TITLE(
   ```
 3. **Data analysis**. We performed the bibliometric analysis of the paper sample with the help of [SciMAT](https://sci2s.ugr.es/scimat/), which is an open-source tool (GPLv3). The file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) stores our paper sample and the parameters we configured to undertake our analysis. To use it:
 
-  * First, [download SciMAT](https://sci2s.ugr.es/scimat/download.html).
-  * Then, run SciMAT and open the file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) with the menu option [*File -> Open Project*](https://sci2s.ugr.es/scimat/software/v1.01/SciMAT-v1.0-userGuide.pdf)
+    * First, [download SciMAT](https://sci2s.ugr.es/scimat/download.html).
+    * Then, run SciMAT and open the file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) with the menu option [*File -> Open Project*](https://sci2s.ugr.es/scimat/software/v1.01/SciMAT-v1.0-userGuide.pdf)
 
 ## Results
 
