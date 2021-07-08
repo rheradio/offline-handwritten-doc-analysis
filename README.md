@@ -48,7 +48,7 @@ TITLE(
       <word>Suen, C.</word>
   </group>
   ```
-3. **Data analysis**. We performed the bibliometric analysis of the paper sample with the help of [SciMAT](https://sci2s.ugr.es/scimat/), which is an open-source tool (GPLv3). The file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) stores our paper sample andthe parameters we configured to undertake our analysis. To use it:
+3. **Data analysis**. We performed the bibliometric analysis of the paper sample with the help of [SciMAT](https://sci2s.ugr.es/scimat/), which is an open-source tool (GPLv3). The file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) stores our paper sample and the parameters we configured to undertake our analysis. To use it:
 
   * First, [download SciMAT](https://sci2s.ugr.es/scimat/download.html).
   * Then, run SciMAT and open the file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) with the menu option [*File -> Open Project*](https://sci2s.ugr.es/scimat/software/v1.01/SciMAT-v1.0-userGuide.pdf)
