@@ -42,10 +42,10 @@ TITLE(
   ```
   + **Authors' names**. Databases sometimes store slightly different versions of the same author's name. The file [author_name_standardization.csv](https://github.com/rheradio/offline-handwritten-doc-analysis/blob/main/standardization/author_name_standardization.csv) specifies the authors' name standardization. For example, the following excerpt recognizes that *Suen, C.Y.*, *Suen, C.*, and *Suen, Ching Y.* refer to the same author, who has published *1+105+3=109* of the 5,389 papers in the sample.
   ```
-Author_ID; Original_Name;Standardized_Name;Number_of_papers
-     6882;      Suen, C.;       Suen, C.Y.;               1
-     6883;    Suen, C.Y.;       Suen, C.Y.;             105
-     6884;Suen, Ching Y.;       Suen, C.Y.;               3
+Author_ID; Original_Name; Standardized_Name; Number_of_papers
+      6882;       Suen, C.;        Suen, C.Y.;                1
+      6883;     Suen, C.Y.;        Suen, C.Y.;              105
+      6884; Suen, Ching Y.;        Suen, C.Y.;                3
   ```
 3. **Data analysis**. We performed the bibliometric analysis of the paper sample with the help of [SciMAT](https://sci2s.ugr.es/scimat/), which is an open-source tool (GPLv3). The file [scimat_database](https://github.com/rheradio/OfflineHandwrittenDocumentAnalysis/blob/main/scimat_database/scimat_database) stores our paper sample and the parameters we configured to undertake our analysis. To use it:
 
