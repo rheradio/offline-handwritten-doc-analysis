@@ -13,25 +13,31 @@
 <line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
 <line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
 <line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
-<line x1="677.1638597533861" x2="400.0" y1="514.8050297095269" style="stroke-width:0.23017902813299235;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="439.1578576660155" y1="400.0" style="stroke-width:0.5797101449275363;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="697.4334584121432" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="161.99399791262948" y1="400.0" style="stroke-width:0.2898550724637681;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="582.6284287026162" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="122.83614024661392" y1="400.0" style="stroke-width:0.07246376811594203;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="285.19497029047324" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="360.84214233398427" y1="400.0" style="stroke-width:0.17391304347826086;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="102.56654158785693" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="638.0060020873703" y1="400.0" style="stroke-width:0.2898550724637681;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="217.3715712973835" stroke="black" stroke-width="1"/>
+<line x1="677.1638597533861" x2="400.0" y1="514.8050297095269" style="stroke-width:0.16042780748663105;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="514.8050297095269" y1="400.0" style="stroke-width:0.6818181818181818;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="677.1638597533861" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="285.19497029047307" y1="400.0" style="stroke-width:0.4040404040404041;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="677.1638597533861" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="122.83614024661398" y1="400.0" style="stroke-width:0.4545454545454546;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="514.8050297095269" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="122.83614024661392" y1="400.0" style="stroke-width:0.24242424242424243;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="285.19497029047307" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="285.1949702904729" y1="400.0" style="stroke-width:0.05050505050505051;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="122.83614024661404" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="514.8050297095267" y1="400.0" style="stroke-width:0.2727272727272727;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="122.83614024661392" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="677.163859753386" y1="400.0" style="stroke-width:0.20202020202020204;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="285.1949702904729" stroke="black" stroke-width="1"/>
 <circle id="circle0" r="38.37837837837838" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="677.1638597533861" cy="514.8050297095269"/>
 <text x="677.1638597533861" y="514.8050297095269" id="text50" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SEGMENTATION</text>
-<circle id="circle1" r="44.86486486486486" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="400.0" cy="400.0"/>
+<circle id="circle1" r="55.67567567567568" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="400.0" cy="400.0"/>
 <text x="400.0" y="400.0" id="text51" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION</text>
-<circle id="circle2" r="23.243243243243242" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="439.1578576660155" cy="697.4334584121432"/>
-<text x="439.1578576660155" y="697.4334584121432" id="text52" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">GA</text>
-<circle id="circle3" r="26.486486486486488" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="161.99399791262948" cy="582.6284287026162"/>
-<text x="161.99399791262948" y="582.6284287026162" id="text53" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CLUSTERING</text>
-<circle id="circle4" r="45.94594594594595" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="122.83614024661392" cy="285.19497029047324"/>
-<text x="122.83614024661392" y="285.19497029047324" id="text54" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FUZZY LOGIC</text>
-<circle id="circle5" r="30.81081081081081" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="360.84214233398427" cy="102.56654158785693"/>
-<text x="360.84214233398427" y="102.56654158785693" id="text55" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ENSEMBLE CLASSIFICATION</text>
-<circle id="circle6" r="26.486486486486488" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="638.0060020873703" cy="217.3715712973835"/>
-<text x="638.0060020873703" y="217.3715712973835" id="text56" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">STRUCTURAL-CLASSIFICATION</text>
+<circle id="circle2" r="24.324324324324323" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="514.8050297095269" cy="677.1638597533861"/>
+<text x="514.8050297095269" y="677.1638597533861" id="text52" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FEATURE SELECTION</text>
+<circle id="circle3" r="23.243243243243242" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="285.19497029047307" cy="677.1638597533861"/>
+<text x="285.19497029047307" y="677.1638597533861" id="text53" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">GA</text>
+<circle id="circle4" r="26.486486486486488" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="122.83614024661398" cy="514.8050297095269"/>
+<text x="122.83614024661398" y="514.8050297095269" id="text54" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CLUSTERING</text>
+<circle id="circle5" r="25.405405405405403" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="122.83614024661392" cy="285.19497029047307"/>
+<text x="122.83614024661392" y="285.19497029047307" id="text55" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">KNN</text>
+<circle id="circle6" r="45.94594594594595" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="285.1949702904729" cy="122.83614024661404"/>
+<text x="285.1949702904729" y="122.83614024661404" id="text56" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FUZZY LOGIC</text>
+<circle id="circle7" r="30.81081081081081" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="514.8050297095267" cy="122.83614024661392"/>
+<text x="514.8050297095267" y="122.83614024661392" id="text57" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ENSEMBLE CLASSIFICATION</text>
+<circle id="circle8" r="26.486486486486488" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="677.163859753386" cy="285.1949702904729"/>
+<text x="677.163859753386" y="285.1949702904729" id="text58" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">STRUCTURAL-CLASSIFICATION</text>
 </svg>
 

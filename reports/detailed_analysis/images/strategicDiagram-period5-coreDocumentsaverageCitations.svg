@@ -20,23 +20,23 @@
 <circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="448.57142857142856" cy="642.8571428571429"/>
 <text x="448.57142857142856" y="642.8571428571429" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ENSEMBLE CLASSIFICATION<tspan x="448.57142857142856" id="text25" y="657.8571428571429">6.05</tspan>
 </text>
-<circle id="circle15" r="56.430256520754256" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="60.0"/>
-<text x="740.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">DNN<tspan x="740.0" id="text25" y="75.0">5.51</tspan>
+<circle id="circle15" r="56.11884448435863" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="60.0"/>
+<text x="740.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">DNN<tspan x="740.0" id="text25" y="75.0">5.46</tspan>
 </text>
-<circle id="circle15" r="50.84967320261438" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="254.28571428571428" cy="545.7142857142858"/>
-<text x="254.28571428571428" y="545.7142857142858" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION<tspan x="254.28571428571428" id="text25" y="560.7142857142858">4.67</tspan>
+<circle id="circle15" r="49.891608817440016" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="351.4285714285714" cy="448.5714285714286"/>
+<text x="351.4285714285714" y="448.5714285714286" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HMM<tspan x="351.4285714285714" id="text25" y="463.5714285714286">4.52</tspan>
 </text>
-<circle id="circle15" r="49.891608817440016" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="351.4285714285714" cy="351.42857142857144"/>
-<text x="351.4285714285714" y="351.42857142857144" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HMM<tspan x="351.4285714285714" id="text25" y="366.42857142857144">4.52</tspan>
+<circle id="circle15" r="48.6291747468218" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="545.7142857142858" cy="351.42857142857144"/>
+<text x="545.7142857142858" y="351.42857142857144" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SEGMENTATION<tspan x="545.7142857142858" id="text25" y="366.42857142857144">4.33</tspan>
 </text>
-<circle id="circle15" r="48.6291747468218" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="545.7142857142858" cy="254.28571428571428"/>
-<text x="545.7142857142858" y="254.28571428571428" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SEGMENTATION<tspan x="545.7142857142858" id="text25" y="269.2857142857143">4.33</tspan>
+<circle id="circle15" r="46.15432219399388" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="642.8571428571428" cy="254.28571428571428"/>
+<text x="642.8571428571428" y="254.28571428571428" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SVM<tspan x="642.8571428571428" id="text25" y="269.2857142857143">3.96</tspan>
 </text>
-<circle id="circle15" r="46.15432219399388" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="642.8571428571428" cy="157.14285714285722"/>
-<text x="642.8571428571428" y="157.14285714285722" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SVM<tspan x="642.8571428571428" id="text25" y="172.14285714285722">3.96</tspan>
+<circle id="circle15" r="37.62838468720822" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="254.28571428571428" cy="545.7142857142858"/>
+<text x="254.28571428571428" y="545.7142857142858" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">WRITER IDENTIFICATION<tspan x="254.28571428571428" id="text25" y="560.7142857142858">2.67</tspan>
 </text>
-<circle id="circle15" r="37.62838468720822" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="157.14285714285714" cy="448.5714285714286"/>
-<text x="157.14285714285714" y="448.5714285714286" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">WRITER IDENTIFICATION<tspan x="157.14285714285714" id="text25" y="463.5714285714286">2.67</tspan>
+<circle id="circle15" r="36.5266106442577" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="157.14285714285714" cy="157.14285714285722"/>
+<text x="157.14285714285714" y="157.14285714285722" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ATTENTION MECHANISM<tspan x="157.14285714285714" id="text25" y="172.14285714285722">2.5</tspan>
 </text>
 </svg>
 

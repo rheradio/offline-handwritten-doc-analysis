@@ -20,8 +20,8 @@
 <circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="400.0" cy="400.0"/>
 <text x="400.0" y="400.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">TEXT RECOGNITION<tspan x="400.0" id="text25" y="415.0">108.21</tspan>
 </text>
-<circle id="circle15" r="35.808427354363346" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="60.0"/>
-<text x="740.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHARACTER RECOGNITION<tspan x="740.0" id="text25" y="75.0">42.77</tspan>
+<circle id="circle15" r="35.491149114911494" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="60.0"/>
+<text x="740.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHARACTER RECOGNITION<tspan x="740.0" id="text25" y="75.0">41.91</tspan>
 </text>
 </svg>
 

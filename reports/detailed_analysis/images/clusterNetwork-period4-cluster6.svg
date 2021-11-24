@@ -13,17 +13,16 @@
 <line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
 <line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
 <line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
-<line x1="677.1638597533861" x2="161.99399791262948" y1="514.8050297095269" style="stroke-width:0.06097560975609756;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="582.6284287026162" stroke="black" stroke-width="1"/>
-<line x1="677.1638597533861" x2="400.0" y1="514.8050297095269" style="stroke-width:0.09977827050997783;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
-<line x1="161.99399791262948" x2="400.0" y1="582.6284287026162" style="stroke-width:0.11363636363636365;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
-<line x1="360.84214233398427" x2="400.0" y1="102.56654158785693" style="stroke-width:0.6060606060606061;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
-<circle id="circle0" r="34.26086956521739" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="677.1638597533861" cy="514.8050297095269"/>
-<text x="677.1638597533861" y="514.8050297095269" id="text50" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION</text>
-<circle id="circle1" r="25.565217391304348" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="161.99399791262948" cy="582.6284287026162"/>
-<text x="161.99399791262948" y="582.6284287026162" id="text51" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MOMENTS</text>
-<circle id="circle2" r="21.043478260869566" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="360.84214233398427" cy="102.56654158785693"/>
-<text x="360.84214233398427" y="102.56654158785693" id="text52" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FPGA</text>
-<circle id="circle3" r="27.652173913043477" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="400.0" cy="400.0"/>
-<text x="400.0" y="400.0" id="text53" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MLP</text>
+<line x1="400.0" x2="677.1638597533861" y1="400.0" style="stroke-width:0.07662835249042145;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="514.8050297095269" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="161.99399791262948" y1="400.0" style="stroke-width:1.984126984126984;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="582.6284287026162" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="360.84214233398427" y1="400.0" style="stroke-width:0.7142857142857142;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="102.56654158785693" stroke="black" stroke-width="1"/>
+<circle id="circle0" r="26.26086956521739" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="400.0" cy="400.0"/>
+<text x="400.0" y="400.0" id="text50" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SCRIPT IDENTIFICATION</text>
+<circle id="circle1" r="30.08695652173913" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="677.1638597533861" cy="514.8050297095269"/>
+<text x="677.1638597533861" y="514.8050297095269" id="text51" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ENSEMBLE CLASSIFICATION</text>
+<circle id="circle2" r="22.434782608695652" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="161.99399791262948" cy="582.6284287026162"/>
+<text x="161.99399791262948" y="582.6284287026162" id="text52" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MULTI-SCRIPTS</text>
+<circle id="circle3" r="22.434782608695652" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="360.84214233398427" cy="102.56654158785693"/>
+<text x="360.84214233398427" y="102.56654158785693" id="text53" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">TEXTURE-FEATURES</text>
 </svg>
 

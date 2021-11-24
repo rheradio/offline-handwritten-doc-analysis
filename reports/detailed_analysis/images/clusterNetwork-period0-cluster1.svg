@@ -14,7 +14,7 @@
 <line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
 <line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
 <line x1="400.0" x2="677.1638597533861" y1="400.0" style="stroke-width:0.4838709677419355;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="514.8050297095269" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="571.0967910804892" y1="400.0" style="stroke-width:0.4147465437788018;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="646.4262325361474" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="571.0967910804892" y1="400.0" style="stroke-width:0.3629032258064516;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="646.4262325361474" stroke="black" stroke-width="1"/>
 <line x1="400.0" x2="410.70770015169416" y1="400.0" style="stroke-width:1.1520737327188941;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="699.8088476970975" stroke="black" stroke-width="1"/>
 <line x1="400.0" x2="246.91899008173016" y1="400.0" style="stroke-width:0.6451612903225806;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="658.0042720623102" stroke="black" stroke-width="1"/>
 <line x1="400.0" x2="131.73241904208663" y1="400.0" style="stroke-width:1.1520737327188941;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="534.2851630188138" stroke="black" stroke-width="1"/>
@@ -25,14 +25,14 @@
 <line x1="400.0" x2="619.5683566545174" y1="400.0" style="stroke-width:0.6451612903225806;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="195.5746181218325" stroke="black" stroke-width="1"/>
 <line x1="400.0" x2="695.2333613008348" y1="400.0" style="stroke-width:0.6451612903225806;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="346.73404112370866" stroke="black" stroke-width="1"/>
 <line x1="677.1638597533861" x2="101.71890946843081" y1="514.8050297095269" style="stroke-width:1.3333333333333333;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="367.93146353046615" stroke="black" stroke-width="1"/>
-<line x1="571.0967910804892" x2="101.71890946843081" y1="646.4262325361474" style="stroke-width:1.1428571428571428;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="367.93146353046615" stroke="black" stroke-width="1"/>
+<line x1="571.0967910804892" x2="101.71890946843081" y1="646.4262325361474" style="stroke-width:1.0;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="367.93146353046615" stroke="black" stroke-width="1"/>
 <line x1="410.70770015169416" x2="131.73241904208663" y1="699.8088476970975" style="stroke-width:0.8163265306122448;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="534.2851630188138" stroke="black" stroke-width="1"/>
 <line x1="131.73241904208663" x2="305.26012371549245" y1="534.2851630188138" style="stroke-width:1.2857142857142856;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="115.35222494880412" stroke="black" stroke-width="1"/>
 <circle id="circle0" r="100.0" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="400.0" cy="400.0"/>
 <text x="400.0" y="400.0" id="text50" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHARACTER RECOGNITION</text>
 <circle id="circle1" r="35.483870967741936" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="677.1638597533861" cy="514.8050297095269"/>
 <text x="677.1638597533861" y="514.8050297095269" id="text51" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">NN</text>
-<circle id="circle2" r="38.064516129032256" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="571.0967910804892" cy="646.4262325361474"/>
+<circle id="circle2" r="40.64516129032258" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="571.0967910804892" cy="646.4262325361474"/>
 <text x="571.0967910804892" y="646.4262325361474" id="text52" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION</text>
 <circle id="circle3" r="38.064516129032256" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="410.70770015169416" cy="699.8088476970975"/>
 <text x="410.70770015169416" y="699.8088476970975" id="text53" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">PREPROCESSING</text>

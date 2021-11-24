@@ -17,17 +17,17 @@
 <line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
 <line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
 <line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
-<circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="570.0" cy="400.0"/>
-<text x="570.0" y="400.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HMM<tspan x="570.0" id="text25" y="415.0">2,089</tspan>
+<circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="570.0" cy="60.0"/>
+<text x="570.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FEATURE-EXTRACTION<tspan x="570.0" id="text25" y="75.0">2,168</tspan>
 </text>
-<circle id="circle15" r="53.5854475825754" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="60.0"/>
-<text x="740.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SVM<tspan x="740.0" id="text25" y="75.0">1,754</tspan>
+<circle id="circle15" r="58.542435424354245" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="400.0" cy="400.0"/>
+<text x="400.0" y="400.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HMM<tspan x="400.0" id="text25" y="415.0">2,089</tspan>
 </text>
-<circle id="circle15" r="28.597415031115368" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="400.0" cy="230.0"/>
-<text x="400.0" y="230.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SEGMENTATION<tspan x="400.0" id="text25" y="245.0">449</tspan>
+<circle id="circle15" r="23.30258302583026" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="570.0"/>
+<text x="740.0" y="570.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHINESE CHARACTER RECOGNITION<tspan x="740.0" id="text25" y="585.0">179</tspan>
 </text>
-<circle id="circle15" r="21.933939684059357" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="230.0" cy="570.0"/>
-<text x="230.0" y="570.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SIGNATUR VERIFICATION<tspan x="230.0" id="text25" y="585.0">101</tspan>
+<circle id="circle15" r="21.8450184501845" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="230.0" cy="230.0"/>
+<text x="230.0" y="230.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">WRITER IDENTIFICATION<tspan x="230.0" id="text25" y="245.0">100</tspan>
 </text>
 </svg>
 

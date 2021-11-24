@@ -17,17 +17,17 @@
 <line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
 <line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
 <line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
-<circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="60.0"/>
-<text x="740.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SVM<tspan x="740.0" id="text25" y="75.0">19</tspan>
+<circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="570.0" cy="60.0"/>
+<text x="570.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FEATURE-EXTRACTION<tspan x="570.0" id="text25" y="75.0">22</tspan>
 </text>
-<circle id="circle15" r="55.78947368421053" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="570.0" cy="400.0"/>
-<text x="570.0" y="400.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HMM<tspan x="570.0" id="text25" y="415.0">17</tspan>
+<circle id="circle15" r="50.90909090909091" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="400.0" cy="400.0"/>
+<text x="400.0" y="400.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HMM<tspan x="400.0" id="text25" y="415.0">17</tspan>
 </text>
-<circle id="circle15" r="45.26315789473684" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="400.0" cy="230.0"/>
-<text x="400.0" y="230.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SEGMENTATION<tspan x="400.0" id="text25" y="245.0">12</tspan>
+<circle id="circle15" r="30.909090909090907" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="230.0" cy="230.0"/>
+<text x="230.0" y="230.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">WRITER IDENTIFICATION<tspan x="230.0" id="text25" y="245.0">6</tspan>
 </text>
-<circle id="circle15" r="28.421052631578945" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="230.0" cy="570.0"/>
-<text x="230.0" y="570.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SIGNATUR VERIFICATION<tspan x="230.0" id="text25" y="585.0">4</tspan>
+<circle id="circle15" r="29.09090909090909" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="570.0"/>
+<text x="740.0" y="570.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHINESE CHARACTER RECOGNITION<tspan x="740.0" id="text25" y="585.0">5</tspan>
 </text>
 </svg>
 

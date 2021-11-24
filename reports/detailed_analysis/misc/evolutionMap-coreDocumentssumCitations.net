@@ -1,101 +1,99 @@
-*Vertices 30
+*Vertices 29
 1 "Per0_0_CHARACTER RECOGNITION" 0.0100 0.0100 0.5000 ic Blue bc Blue x_fact 5.0 y_fact 5.0
 2 "Per0_1_TEXT RECOGNITION" 0.0100 0.5100 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
 3 "Per1_0_CHARACTER RECOGNITION" 0.1767 0.0100 0.5000 ic Blue bc Blue x_fact 9.0 y_fact 9.0
-4 "Per1_1_NUMERAL RECOGNITION" 0.1767 0.2100 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
-5 "Per1_2_CHINESE CHARACTER RECOGNITION" 0.1767 0.4100 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
-6 "Per1_3_WORD SPOTTING" 0.1767 0.6100 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
-7 "Per1_4_DIGIT RECOGNITION" 0.1767 0.8100 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
-8 "Per2_0_HMM" 0.3433 0.0100 0.5000 ic Blue bc Blue x_fact 9.0 y_fact 9.0
-9 "Per2_1_CHARACTER RECOGNITION" 0.3433 0.2100 0.5000 ic Blue bc Blue x_fact 9.0 y_fact 9.0
-10 "Per2_2_CHINESE CHARACTER RECOGNITION" 0.3433 0.4100 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
-11 "Per2_3_NUMERAL RECOGNITION" 0.3433 0.6100 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
-12 "Per2_4_WRITER IDENTIFICATION" 0.3433 0.8100 0.5000 ic Blue bc Blue x_fact 8.0 y_fact 8.0
-13 "Per3_0_SVM" 0.5100 0.0100 0.5000 ic Blue bc Blue x_fact 7.0 y_fact 7.0
-14 "Per3_1_HMM" 0.5100 0.2600 0.5000 ic Blue bc Blue x_fact 8.0 y_fact 8.0
-15 "Per3_2_SEGMENTATION" 0.5100 0.5100 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
-16 "Per3_3_SIGNATUR VERIFICATION" 0.5100 0.7600 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
-17 "Per4_0_CHARACTER RECOGNITION" 0.6767 0.0100 0.5000 ic Blue bc Blue x_fact 10.0 y_fact 10.0
-18 "Per4_1_SEGMENTATION" 0.6767 0.1529 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
-19 "Per4_2_HMM" 0.6767 0.2957 0.5000 ic Blue bc Blue x_fact 4.0 y_fact 4.0
-20 "Per4_3_CLASSIFICATION" 0.6767 0.4386 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
-21 "Per4_4_WRITER IDENTIFICATION" 0.6767 0.5814 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
-22 "Per4_5_MLP" 0.6767 0.7243 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
-23 "Per4_6_HISTORICAL-DOCUMENTS" 0.6767 0.8671 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
-24 "Per5_0_DNN" 0.8433 0.0100 0.5000 ic Blue bc Blue x_fact 10.0 y_fact 10.0
-25 "Per5_1_SVM" 0.8433 0.1529 0.5000 ic Blue bc Blue x_fact 5.0 y_fact 5.0
-26 "Per5_2_SEGMENTATION" 0.8433 0.2957 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
-27 "Per5_3_ENSEMBLE CLASSIFICATION" 0.8433 0.4386 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
-28 "Per5_4_HMM" 0.8433 0.5814 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
-29 "Per5_5_WRITER IDENTIFICATION" 0.8433 0.7243 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
-30 "Per5_6_NUMERAL RECOGNITION" 0.8433 0.8671 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+4 "Per1_1_NUMERAL RECOGNITION" 0.1767 0.2600 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+5 "Per1_2_CHINESE CHARACTER RECOGNITION" 0.1767 0.5100 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+6 "Per1_3_WORD SPOTTING" 0.1767 0.7600 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+7 "Per2_0_CHARACTER RECOGNITION" 0.3433 0.0100 0.5000 ic Blue bc Blue x_fact 10.0 y_fact 10.0
+8 "Per2_1_HMM" 0.3433 0.2600 0.5000 ic Blue bc Blue x_fact 5.0 y_fact 5.0
+9 "Per2_2_CHINESE CHARACTER RECOGNITION" 0.3433 0.5100 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+10 "Per2_3_WRITER IDENTIFICATION" 0.3433 0.7600 0.5000 ic Blue bc Blue x_fact 7.0 y_fact 7.0
+11 "Per3_0_FEATURE-EXTRACTION" 0.5100 0.0100 0.5000 ic Blue bc Blue x_fact 8.0 y_fact 8.0
+12 "Per3_1_HMM" 0.5100 0.2600 0.5000 ic Blue bc Blue x_fact 8.0 y_fact 8.0
+13 "Per3_2_CHINESE CHARACTER RECOGNITION" 0.5100 0.5100 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+14 "Per3_3_WRITER IDENTIFICATION" 0.5100 0.7600 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+15 "Per4_0_CHARACTER RECOGNITION" 0.6767 0.0100 0.5000 ic Blue bc Blue x_fact 9.0 y_fact 9.0
+16 "Per4_1_SEGMENTATION" 0.6767 0.1350 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+17 "Per4_2_HMM" 0.6767 0.2600 0.5000 ic Blue bc Blue x_fact 3.0 y_fact 3.0
+18 "Per4_3_NUMERAL RECOGNITION" 0.6767 0.3850 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+19 "Per4_4_SIGNATUR VERIFICATION" 0.6767 0.5100 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+20 "Per4_5_SCRIPT IDENTIFICATION" 0.6767 0.6350 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+21 "Per4_6_HISTORICAL-DOCUMENTS" 0.6767 0.7600 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+22 "Per4_7_CHINESE CHARACTER RECOGNITION" 0.6767 0.8850 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+23 "Per5_0_DNN" 0.8433 0.0100 0.5000 ic Blue bc Blue x_fact 10.0 y_fact 10.0
+24 "Per5_1_SVM" 0.8433 0.1529 0.5000 ic Blue bc Blue x_fact 5.0 y_fact 5.0
+25 "Per5_2_SEGMENTATION" 0.8433 0.2957 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+26 "Per5_3_ENSEMBLE CLASSIFICATION" 0.8433 0.4386 0.5000 ic Blue bc Blue x_fact 2.0 y_fact 2.0
+27 "Per5_4_HMM" 0.8433 0.5814 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+28 "Per5_5_WRITER IDENTIFICATION" 0.8433 0.7243 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
+29 "Per5_6_ATTENTION MECHANISM" 0.8433 0.8671 0.5000 ic Blue bc Blue x_fact 1.0 y_fact 1.0
 *edges
 1 3 5.0000 c Blue
-1 4 2.8571 c Blue
+1 4 2.2222 c Blue
 1 5 5.0000 c Gray95
 2 3 3.3333 c Gray95
 2 4 3.3333 c Gray95
 2 6 3.3333 c Blue
+3 7 5.0000 c Blue
 3 8 1.6667 c Blue
-3 9 6.6667 c Blue
-4 8 1.4286 c Gray95
-4 9 2.8571 c Gray95
-4 10 1.4286 c Gray95
-4 11 6.0000 c Blue
+3 9 2.0000 c Gray95
+4 7 3.3333 c Blue
+4 8 2.2222 c Gray95
+4 9 1.1111 c Gray95
+5 7 2.5000 c Gray95
 5 8 2.5000 c Gray95
-5 9 2.5000 c Gray95
-5 10 2.5000 c Blue
-6 8 3.3333 c Gray95
-7 8 3.3333 c Gray95
-7 11 3.3333 c Blue
-8 13 1.6667 c Gray95
-8 14 5.8333 c Blue
-8 15 0.9091 c Gray95
-9 13 2.5000 c Blue
-9 14 1.6667 c Gray95
-9 15 3.6364 c Blue
-10 13 2.5000 c Blue
-10 16 2.0000 c Gray95
-11 13 2.0000 c Gray95
-11 15 2.0000 c Blue
-12 15 2.5000 c Blue
-12 16 5.0000 c Blue
-13 17 5.0000 c Blue
-13 20 3.3333 c Blue
-13 21 2.0000 c Gray95
-14 17 0.8333 c Gray95
-14 18 1.6667 c Gray95
-14 19 3.3333 c Blue
-14 20 0.8333 c Gray95
-14 22 2.5000 c Gray95
-14 23 3.3333 c Gray95
-15 17 1.8182 c Gray95
-15 18 1.8182 c Blue
-15 20 1.8182 c Gray95
-15 21 2.0000 c Blue
-15 22 2.5000 c Gray95
-15 23 3.3333 c Blue
-16 17 4.0000 c Gray95
-16 20 2.0000 c Blue
-17 24 1.6667 c Blue
-17 25 5.0000 c Blue
-17 26 0.8333 c Gray95
-17 27 0.8333 c Gray95
-17 29 1.2500 c Gray95
-18 24 0.8333 c Gray95
-18 26 4.1667 c Blue
-18 27 2.5000 c Gray95
-19 24 1.6667 c Gray95
-19 26 1.6667 c Gray95
-19 28 5.0000 c Blue
-20 24 0.8333 c Gray95
-20 25 2.5000 c Blue
-20 27 3.3333 c Blue
-21 25 2.0000 c Gray95
-21 26 2.0000 c Gray95
-21 27 2.0000 c Gray95
-21 29 4.0000 c Blue
-22 27 2.5000 c Gray95
-22 30 5.0000 c Blue
-23 26 3.3333 c Blue
-23 28 3.3333 c Gray95
+5 9 2.5000 c Blue
+6 7 3.3333 c Gray95
+7 11 4.1667 c Blue
+7 12 1.6667 c Gray95
+7 13 2.0000 c Gray95
+7 14 1.6667 c Gray95
+8 11 1.6667 c Gray95
+8 12 5.0000 c Blue
+9 11 2.0000 c Gray95
+9 12 1.0000 c Gray95
+9 13 5.0000 c Blue
+10 11 2.5000 c Gray95
+10 14 7.5000 c Blue
+11 15 7.5000 c Blue
+11 18 2.5000 c Blue
+12 15 0.8333 c Gray95
+12 16 1.6667 c Gray95
+12 17 3.3333 c Blue
+12 18 0.8333 c Gray95
+12 19 1.4286 c Gray95
+12 20 2.5000 c Gray95
+12 21 3.3333 c Gray95
+13 15 1.0000 c Gray95
+13 16 4.0000 c Gray95
+13 19 1.4286 c Gray95
+13 22 3.3333 c Blue
+14 16 1.6667 c Blue
+14 19 5.0000 c Blue
+14 20 5.0000 c Blue
+15 23 1.6667 c Blue
+15 24 5.0000 c Blue
+15 25 0.8333 c Gray95
+15 26 0.8333 c Gray95
+15 28 1.2500 c Gray95
+16 23 0.8333 c Gray95
+16 25 4.1667 c Blue
+16 26 2.5000 c Gray95
+17 23 1.6667 c Gray95
+17 25 1.6667 c Gray95
+17 27 5.0000 c Blue
+18 23 1.6667 c Blue
+18 24 1.6667 c Gray95
+18 26 0.8333 c Gray95
+18 28 1.2500 c Gray95
+19 24 1.4286 c Blue
+19 26 2.8571 c Gray95
+19 28 2.8571 c Blue
+20 24 2.5000 c Gray95
+20 26 5.0000 c Blue
+20 27 2.5000 c Gray95
+21 25 3.3333 c Blue
+21 27 3.3333 c Gray95
+22 23 3.3333 c Gray95
+22 26 3.3333 c Blue

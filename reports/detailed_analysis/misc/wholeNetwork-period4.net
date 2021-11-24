@@ -1,108 +1,107 @@
-*vertices 104
+*vertices 103
 1 "TEXT RECOGNITION" ic Yellow bc Yellow x_fact 8.0 y_fact 8.0
 2 "FEATURE-EXTRACTION" ic Red bc Red x_fact 7.0 y_fact 7.0
 3 "CHARACTER RECOGNITION" ic Red bc Red x_fact 10.0 y_fact 10.0
 4 "SEGMENTATION" ic Yellow bc Yellow x_fact 4.0 y_fact 4.0
-5 "DNN" ic White bc Black x_fact 1.0 y_fact 1.0
-6 "CNN" ic White bc Black x_fact 1.0 y_fact 1.0
+5 "DNN" ic Green bc Green x_fact 1.0 y_fact 1.0
+6 "CNN" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
 7 "NN" ic Red bc Red x_fact 6.0 y_fact 6.0
-8 "DIGIT RECOGNITION" ic Green bc Green x_fact 4.0 y_fact 4.0
+8 "NUMERAL RECOGNITION" ic Green bc Green x_fact 5.0 y_fact 5.0
 9 "SVM" ic Red bc Red x_fact 4.0 y_fact 4.0
 10 "CLASSIFICATION" ic Green bc Green x_fact 3.0 y_fact 3.0
 11 "CHINESE TEXT RECOGNITION" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
 12 "HMM" ic Blue bc Blue x_fact 4.0 y_fact 4.0
 13 "WRITER IDENTIFICATION" ic Pink bc Pink x_fact 3.0 y_fact 3.0
 14 "FEATURE SELECTION" ic Pink bc Pink x_fact 1.0 y_fact 1.0
-15 "NUMERAL RECOGNITION" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
-16 "WORD SPOTTING" ic Blue bc Blue x_fact 2.0 y_fact 2.0
-17 "PREPROCESSING" ic Red bc Red x_fact 3.0 y_fact 3.0
-18 "WORD RECOGNITION" ic Blue bc Blue x_fact 3.0 y_fact 3.0
-19 "SIGNATUR VERIFICATION" ic Green bc Green x_fact 2.0 y_fact 2.0
-20 "ARABIC TEXT RECOGNITION" ic Red bc Red x_fact 6.0 y_fact 6.0
-21 "RNN" ic Blue bc Blue x_fact 1.0 y_fact 1.0
-22 "GA" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
-23 "CLUSTERING" ic Blue bc Blue x_fact 1.0 y_fact 1.0
-24 "TEMPLATE MATCHING" ic White bc Black x_fact 1.0 y_fact 1.0
-25 "MATH RECOGNITION" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
-26 "HISTORICAL-DOCUMENTS" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
-27 "KNN" ic Red bc Red x_fact 2.0 y_fact 2.0
-28 "WAVELET" ic Red bc Red x_fact 2.0 y_fact 2.0
-29 "SCRIPT IDENTIFICATION" ic Green bc Green x_fact 1.0 y_fact 1.0
-30 "INDIAN TEXT RECOGNITION" ic Red bc Red x_fact 4.0 y_fact 4.0
-31 "DYNAMIC-PROGRAMMING" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
-32 "LAYOUT-ANALYSIS" ic White bc Black x_fact 1.0 y_fact 1.0
-33 "FUZZY LOGIC" ic Green bc Green x_fact 1.0 y_fact 1.0
-34 "JAPANESE TEXT RECOGNITION" ic White bc Black x_fact 1.0 y_fact 1.0
-35 "LANGUAGE MODEL" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
-36 "STRUCTURAL-FEATURES" ic Yellow bc Yellow x_fact 3.0 y_fact 3.0
-37 "DTW" ic White bc Black x_fact 1.0 y_fact 1.0
-38 "ENSEMBLE CLASSIFICATION" ic Green bc Green x_fact 2.0 y_fact 2.0
-39 "HOG" ic Green bc Green x_fact 1.0 y_fact 1.0
-40 "SUPERVISED-LEARNING" ic White bc Black x_fact 1.0 y_fact 1.0
-41 "POST-PROCESSING" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
-42 "SLIDING-WINDOW" ic White bc Black x_fact 1.0 y_fact 1.0
-43 "MUSIC RECOGNITION" ic Blue bc Blue x_fact 1.0 y_fact 1.0
-44 "INFORMATION RETRIEVAL" ic White bc Black x_fact 1.0 y_fact 1.0
-45 "CHAIN-CODE" ic Green bc Green x_fact 1.0 y_fact 1.0
-46 "MORPHOLOGY OPERATOR" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
-47 "STATISTICAL MODEL" ic Red bc Red x_fact 4.0 y_fact 4.0
-48 "FORENSICS" ic Pink bc Pink x_fact 1.0 y_fact 1.0
-49 "MATHEMATICAL TRANSFORM" ic Red bc Red x_fact 2.0 y_fact 2.0
-50 "ROMAN-SCRIPT" ic Blue bc Blue x_fact 1.0 y_fact 1.0
-51 "MULTI-SCRIPTS" ic White bc Black x_fact 1.0 y_fact 1.0
-52 "GENDER-IDENTIFICATION" ic White bc Black x_fact 1.0 y_fact 1.0
-53 "TEXTURE-FEATURES" ic Pink bc Pink x_fact 1.0 y_fact 1.0
-54 "STRUCTURAL-CLASSIFICATION" ic White bc Black x_fact 1.0 y_fact 1.0
-55 "BANK-CHECK-RECOGNITION" ic White bc Black x_fact 1.0 y_fact 1.0
-56 "GMM" ic Blue bc Blue x_fact 1.0 y_fact 1.0
-57 "SYNTHETIC-DATA" ic White bc Black x_fact 1.0 y_fact 1.0
-58 "N-GRAMS" ic White bc Black x_fact 1.0 y_fact 1.0
-59 "GRAPH" ic White bc Black x_fact 1.0 y_fact 1.0
-60 "DECISION TREE" ic White bc Black x_fact 1.0 y_fact 1.0
-61 "STATISTICAL FEATURE" ic White bc Black x_fact 1.0 y_fact 1.0
-62 "SENTENCE RECOGNITION" ic Blue bc Blue x_fact 1.0 y_fact 1.0
-63 "MOMENTS" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
-64 "CURVELET-TRANSFORMS" ic White bc Black x_fact 1.0 y_fact 1.0
-65 "FPGA" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
-66 "SIFT" ic White bc Black x_fact 1.0 y_fact 1.0
-67 "AUTOENCODER" ic White bc Black x_fact 1.0 y_fact 1.0
-68 "SPIKING-NEURONS" ic White bc Black x_fact 1.0 y_fact 1.0
-69 "BAYESIAN-NETWORK" ic Blue bc Blue x_fact 1.0 y_fact 1.0
-70 "AFFINE-TRANSFORMATION" ic White bc Black x_fact 1.0 y_fact 1.0
-71 "DIRECTIONAL-FEATURE" ic White bc Black x_fact 1.0 y_fact 1.0
-72 "ELASTIC-MESH" ic White bc Black x_fact 1.0 y_fact 1.0
-73 "TOPOLOGICAL-FEATURE" ic White bc Black x_fact 1.0 y_fact 1.0
-74 "PROJECTION FEATURES" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
-75 "ZONNING" ic Red bc Red x_fact 1.0 y_fact 1.0
-76 "VITERBI-ALGORITHM" ic Blue bc Blue x_fact 1.0 y_fact 1.0
-77 "DICTIONARY" ic White bc Black x_fact 1.0 y_fact 1.0
-78 "EMBEDDING" ic White bc Black x_fact 1.0 y_fact 1.0
-79 "EDIT-DISTANCE" ic White bc Black x_fact 1.0 y_fact 1.0
-80 "VOTING" ic White bc Black x_fact 1.0 y_fact 1.0
-81 "VORONOI-DIAGRAM" ic White bc Black x_fact 1.0 y_fact 1.0
-82 "HISTOGRAM" ic Pink bc Pink x_fact 1.0 y_fact 1.0
-83 "LOCAL-FEATURES" ic White bc Black x_fact 1.0 y_fact 1.0
-84 "FEATURE-LEARNING" ic White bc Black x_fact 1.0 y_fact 1.0
-85 "CURVE-FEATURE" ic White bc Black x_fact 1.0 y_fact 1.0
-86 "PCA" ic White bc Black x_fact 1.0 y_fact 1.0
-87 "ICA" ic White bc Black x_fact 1.0 y_fact 1.0
-88 "FEATURE-REDUCTION" ic Green bc Green x_fact 1.0 y_fact 1.0
-89 "ELM" ic White bc Black x_fact 1.0 y_fact 1.0
-90 "INCREMENTAL-LEARNING" ic White bc Black x_fact 1.0 y_fact 1.0
-91 "SOM" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
-92 "MLP" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
-93 "RBF" ic Green bc Green x_fact 1.0 y_fact 1.0
-94 "PNN" ic White bc Black x_fact 1.0 y_fact 1.0
-95 "WORD-SEGMENTATION" ic White bc Black x_fact 1.0 y_fact 1.0
-96 "CHARACTER-SEGMENTATION" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
-97 "TEXT-LINE-SEGMENTAION" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
-98 "DBNN" ic Blue bc Blue x_fact 1.0 y_fact 1.0
-99 "TIBETAN-CHARACTER" ic White bc Black x_fact 1.0 y_fact 1.0
-100 "VERIFICATION" ic White bc Black x_fact 1.0 y_fact 1.0
-101 "HOLISTIC-APPROACH" ic White bc Black x_fact 1.0 y_fact 1.0
-102 "BKS" ic Green bc Green x_fact 1.0 y_fact 1.0
-103 "ROVER" ic White bc Black x_fact 1.0 y_fact 1.0
-104 "CHINESE CHARACTER RECOGNITION" ic Green bc Green x_fact 2.0 y_fact 2.0
+15 "WORD SPOTTING" ic Blue bc Blue x_fact 2.0 y_fact 2.0
+16 "PREPROCESSING" ic Red bc Red x_fact 3.0 y_fact 3.0
+17 "WORD RECOGNITION" ic Blue bc Blue x_fact 3.0 y_fact 3.0
+18 "SIGNATUR VERIFICATION" ic Pink bc Pink x_fact 2.0 y_fact 2.0
+19 "ARABIC TEXT RECOGNITION" ic Red bc Red x_fact 6.0 y_fact 6.0
+20 "RNN" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+21 "GA" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+22 "CLUSTERING" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+23 "TEMPLATE MATCHING" ic White bc Black x_fact 1.0 y_fact 1.0
+24 "MATH RECOGNITION" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+25 "HISTORICAL-DOCUMENTS" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+26 "KNN" ic Red bc Red x_fact 2.0 y_fact 2.0
+27 "WAVELET" ic Red bc Red x_fact 2.0 y_fact 2.0
+28 "SCRIPT IDENTIFICATION" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+29 "INDIAN TEXT RECOGNITION" ic Red bc Red x_fact 4.0 y_fact 4.0
+30 "DYNAMIC-PROGRAMMING" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+31 "LAYOUT-ANALYSIS" ic White bc Black x_fact 1.0 y_fact 1.0
+32 "FUZZY LOGIC" ic White bc Black x_fact 1.0 y_fact 1.0
+33 "JAPANESE TEXT RECOGNITION" ic White bc Black x_fact 1.0 y_fact 1.0
+34 "LANGUAGE MODEL" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+35 "STRUCTURAL-FEATURES" ic Yellow bc Yellow x_fact 3.0 y_fact 3.0
+36 "DTW" ic White bc Black x_fact 1.0 y_fact 1.0
+37 "ENSEMBLE CLASSIFICATION" ic Dandelion bc Dandelion x_fact 2.0 y_fact 2.0
+38 "HOG" ic White bc Black x_fact 1.0 y_fact 1.0
+39 "SUPERVISED-LEARNING" ic White bc Black x_fact 1.0 y_fact 1.0
+40 "POST-PROCESSING" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+41 "SLIDING-WINDOW" ic White bc Black x_fact 1.0 y_fact 1.0
+42 "MUSIC RECOGNITION" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+43 "INFORMATION RETRIEVAL" ic White bc Black x_fact 1.0 y_fact 1.0
+44 "CHAIN-CODE" ic Green bc Green x_fact 1.0 y_fact 1.0
+45 "MORPHOLOGY OPERATOR" ic GreenYellow bc GreenYellow x_fact 1.0 y_fact 1.0
+46 "STATISTICAL MODEL" ic Red bc Red x_fact 4.0 y_fact 4.0
+47 "FORENSICS" ic White bc Black x_fact 1.0 y_fact 1.0
+48 "MATHEMATICAL TRANSFORM" ic Red bc Red x_fact 2.0 y_fact 2.0
+49 "ROMAN-SCRIPT" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+50 "MULTI-SCRIPTS" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+51 "GENDER-IDENTIFICATION" ic White bc Black x_fact 1.0 y_fact 1.0
+52 "TEXTURE-FEATURES" ic Dandelion bc Dandelion x_fact 1.0 y_fact 1.0
+53 "STRUCTURAL-CLASSIFICATION" ic White bc Black x_fact 1.0 y_fact 1.0
+54 "BANK-CHECK-RECOGNITION" ic White bc Black x_fact 1.0 y_fact 1.0
+55 "GMM" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+56 "SYNTHETIC-DATA" ic White bc Black x_fact 1.0 y_fact 1.0
+57 "N-GRAMS" ic White bc Black x_fact 1.0 y_fact 1.0
+58 "GRAPH" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+59 "DECISION TREE" ic White bc Black x_fact 1.0 y_fact 1.0
+60 "STATISTICAL FEATURE" ic Green bc Green x_fact 1.0 y_fact 1.0
+61 "SENTENCE RECOGNITION" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+62 "MOMENTS" ic Green bc Green x_fact 1.0 y_fact 1.0
+63 "CURVELET-TRANSFORMS" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+64 "FPGA" ic Green bc Green x_fact 1.0 y_fact 1.0
+65 "SIFT" ic White bc Black x_fact 1.0 y_fact 1.0
+66 "AUTOENCODER" ic Green bc Green x_fact 1.0 y_fact 1.0
+67 "SPIKING-NEURONS" ic White bc Black x_fact 1.0 y_fact 1.0
+68 "BAYESIAN-NETWORK" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+69 "AFFINE-TRANSFORMATION" ic Green bc Green x_fact 1.0 y_fact 1.0
+70 "DIRECTIONAL-FEATURE" ic White bc Black x_fact 1.0 y_fact 1.0
+71 "ELASTIC-MESH" ic White bc Black x_fact 1.0 y_fact 1.0
+72 "TOPOLOGICAL-FEATURE" ic White bc Black x_fact 1.0 y_fact 1.0
+73 "PROJECTION FEATURES" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+74 "ZONNING" ic Red bc Red x_fact 1.0 y_fact 1.0
+75 "VITERBI-ALGORITHM" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+76 "DICTIONARY" ic White bc Black x_fact 1.0 y_fact 1.0
+77 "EMBEDDING" ic White bc Black x_fact 1.0 y_fact 1.0
+78 "EDIT-DISTANCE" ic White bc Black x_fact 1.0 y_fact 1.0
+79 "VOTING" ic Green bc Green x_fact 1.0 y_fact 1.0
+80 "VORONOI-DIAGRAM" ic White bc Black x_fact 1.0 y_fact 1.0
+81 "HISTOGRAM" ic White bc Black x_fact 1.0 y_fact 1.0
+82 "LOCAL-FEATURES" ic White bc Black x_fact 1.0 y_fact 1.0
+83 "FEATURE-LEARNING" ic White bc Black x_fact 1.0 y_fact 1.0
+84 "CURVE-FEATURE" ic White bc Black x_fact 1.0 y_fact 1.0
+85 "PCA" ic Green bc Green x_fact 1.0 y_fact 1.0
+86 "ICA" ic Lavender bc Lavender x_fact 1.0 y_fact 1.0
+87 "FEATURE-REDUCTION" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+88 "ELM" ic White bc Black x_fact 1.0 y_fact 1.0
+89 "INCREMENTAL-LEARNING" ic White bc Black x_fact 1.0 y_fact 1.0
+90 "SOM" ic Yellow bc Yellow x_fact 1.0 y_fact 1.0
+91 "MLP" ic Green bc Green x_fact 1.0 y_fact 1.0
+92 "RBF" ic White bc Black x_fact 1.0 y_fact 1.0
+93 "PNN" ic White bc Black x_fact 1.0 y_fact 1.0
+94 "WORD-SEGMENTATION" ic White bc Black x_fact 1.0 y_fact 1.0
+95 "CHARACTER-SEGMENTATION" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
+96 "TEXT-LINE-SEGMENTAION" ic Yellow bc Yellow x_fact 2.0 y_fact 2.0
+97 "DBNN" ic Blue bc Blue x_fact 1.0 y_fact 1.0
+98 "TIBETAN-CHARACTER" ic White bc Black x_fact 1.0 y_fact 1.0
+99 "VERIFICATION" ic Pink bc Pink x_fact 1.0 y_fact 1.0
+100 "HOLISTIC-APPROACH" ic White bc Black x_fact 1.0 y_fact 1.0
+101 "BKS" ic White bc Black x_fact 1.0 y_fact 1.0
+102 "ROVER" ic White bc Black x_fact 1.0 y_fact 1.0
+103 "CHINESE CHARACTER RECOGNITION" ic Lavender bc Lavender x_fact 2.0 y_fact 2.0
 *edges
 1 2 0.1756 c Black
 1 3 0.1337 c Black
@@ -110,575 +109,569 @@
 1 5 0.0166 c Black
 1 6 0.0145 c Black
 1 7 0.2345 c Black
-1 8 0.0126 c Black
+1 8 0.0138 c Black
 1 9 0.0347 c Black
 1 10 0.0547 c Black
 1 11 0.0332 c Yellow
 1 12 0.5698 c Black
 1 13 0.0109 c Black
 1 14 0.0101 c Black
-1 15 0.0355 c Black
-1 16 0.1675 c Black
-1 17 0.0591 c Black
-1 18 0.0606 c Black
-1 19 0.0054 c Black
-1 20 0.0826 c Black
-1 21 0.4466 c Black
-1 22 0.0490 c Yellow
-1 23 0.0228 c Black
-1 25 0.0179 c Yellow
-1 26 0.1691 c Black
-1 30 0.0523 c Black
-1 33 0.0661 c Black
-1 35 0.4679 c Black
-1 36 0.0238 c Yellow
-1 37 0.0258 c Black
-1 38 0.0722 c Black
-1 40 0.1163 c Black
-1 41 0.0581 c Yellow
-1 44 0.0654 c Black
-1 46 0.0129 c Black
-1 47 0.0561 c Black
-1 50 0.0523 c Black
-1 54 0.0388 c Black
-1 58 0.0581 c Black
-1 75 0.0228 c Black
-1 77 0.0211 c Black
-1 83 0.0233 c Black
-1 88 0.0249 c Black
-1 90 0.1163 c Black
-1 91 0.0145 c Yellow
-1 92 0.0106 c Black
-1 96 0.0083 c Yellow
-1 97 0.0338 c Yellow
-1 98 0.0465 c Black
-1 104 0.0054 c Black
+1 15 0.1675 c Black
+1 16 0.0591 c Black
+1 17 0.0606 c Black
+1 18 0.0054 c Black
+1 19 0.0826 c Black
+1 20 0.4466 c Black
+1 21 0.0490 c Yellow
+1 22 0.0228 c Black
+1 24 0.0179 c Yellow
+1 25 0.1691 c Black
+1 29 0.0523 c Black
+1 32 0.0661 c Black
+1 34 0.4679 c Black
+1 35 0.0238 c Yellow
+1 36 0.0258 c Black
+1 37 0.0722 c Black
+1 39 0.1163 c Black
+1 40 0.0581 c Yellow
+1 43 0.0654 c Black
+1 45 0.0129 c Black
+1 46 0.0561 c Black
+1 49 0.0523 c Black
+1 53 0.0388 c Black
+1 57 0.0581 c Black
+1 74 0.0228 c Black
+1 76 0.0211 c Black
+1 82 0.0233 c Black
+1 87 0.0249 c Black
+1 89 0.1163 c Black
+1 90 0.0145 c Yellow
+1 91 0.0106 c Black
+1 95 0.0083 c Yellow
+1 96 0.0338 c Yellow
+1 97 0.0465 c Black
+1 103 0.0054 c Black
 2 3 0.8365 c Red
 2 4 0.0761 c Black
 2 5 0.0196 c Black
 2 7 0.4161 c Red
-2 8 0.2083 c Black
+2 8 0.2609 c Black
 2 9 0.3341 c Red
 2 10 0.2911 c Black
 2 11 0.0098 c Black
 2 12 0.0420 c Black
 2 13 0.0699 c Black
 2 14 0.0744 c Black
-2 15 0.0601 c Black
-2 16 0.0065 c Black
-2 17 0.2783 c Red
-2 18 0.0714 c Black
-2 20 0.1473 c Red
-2 21 0.0125 c Black
-2 22 0.0324 c Black
-2 26 0.0125 c Black
-2 27 0.1593 c Red
-2 28 0.1027 c Red
-2 30 0.1096 c Red
-2 33 0.0280 c Black
-2 36 0.0404 c Black
-2 39 0.0274 c Black
-2 45 0.0474 c Black
-2 47 0.0815 c Red
-2 49 0.0560 c Red
-2 56 0.0183 c Black
-2 62 0.0548 c Black
-2 63 0.0171 c Black
-2 65 0.2055 c Black
-2 69 0.0342 c Black
-2 72 0.1027 c Black
-2 75 0.1906 c Red
-2 81 0.0913 c Black
-2 83 0.0616 c Black
-2 86 0.1174 c Black
-2 87 0.2055 c Black
-2 88 0.0522 c Black
-2 89 0.0685 c Black
-2 91 0.0385 c Black
-2 92 0.0778 c Black
-2 93 0.0616 c Black
-2 95 0.0183 c Black
-2 96 0.0098 c Black
-2 101 0.0881 c Black
-2 104 0.0781 c Black
+2 15 0.0065 c Black
+2 16 0.2783 c Red
+2 17 0.0714 c Black
+2 19 0.1473 c Red
+2 20 0.0125 c Black
+2 21 0.0324 c Black
+2 25 0.0125 c Black
+2 26 0.1593 c Red
+2 27 0.1027 c Red
+2 29 0.1096 c Red
+2 32 0.0280 c Black
+2 35 0.0404 c Black
+2 38 0.0274 c Black
+2 44 0.0474 c Black
+2 46 0.0815 c Red
+2 48 0.0560 c Red
+2 55 0.0183 c Black
+2 61 0.0548 c Black
+2 62 0.0171 c Black
+2 64 0.2055 c Black
+2 68 0.0342 c Black
+2 71 0.1027 c Black
+2 74 0.1906 c Red
+2 80 0.0913 c Black
+2 82 0.0616 c Black
+2 85 0.1174 c Black
+2 86 0.2055 c Black
+2 87 0.0522 c Black
+2 88 0.0685 c Black
+2 90 0.0385 c Black
+2 91 0.0778 c Black
+2 92 0.0616 c Black
+2 94 0.0183 c Black
+2 95 0.0098 c Black
+2 100 0.0881 c Black
+2 103 0.0781 c Black
 3 4 0.1396 c Black
 3 5 0.0497 c Black
 3 6 0.0245 c Black
 3 7 0.4438 c Red
-3 8 0.0288 c Black
+3 8 0.0932 c Black
 3 9 0.2338 c Red
 3 10 0.1637 c Black
 3 11 0.0559 c Black
 3 12 0.0918 c Black
 3 14 0.0681 c Black
-3 15 0.1060 c Black
-3 16 0.0093 c Black
-3 17 0.1767 c Red
-3 18 0.0925 c Black
-3 20 0.1768 c Red
-3 21 0.0178 c Black
-3 22 0.0366 c Black
-3 23 0.0473 c Black
-3 24 0.0217 c Black
-3 26 0.0079 c Black
-3 27 0.4459 c Red
-3 28 0.3062 c Red
-3 29 0.0604 c Black
-3 30 0.5585 c Red
-3 31 0.0870 c Black
-3 33 0.0711 c Black
-3 34 0.0348 c Black
-3 36 0.1026 c Black
-3 38 0.0540 c Black
-3 39 0.0696 c Black
-3 41 0.0435 c Black
-3 45 0.1639 c Black
-3 46 0.0097 c Black
-3 47 0.2505 c Red
-3 49 0.2856 c Red
-3 51 0.0248 c Black
-3 56 0.0261 c Black
-3 60 0.0217 c Black
-3 62 0.0348 c Black
-3 63 0.0435 c Black
-3 64 0.0290 c Black
-3 66 0.0978 c Black
-3 69 0.0217 c Black
-3 72 0.1159 c Black
-3 74 0.0696 c Black
-3 75 0.1890 c Red
-3 77 0.0988 c Black
-3 80 0.0290 c Black
-3 81 0.0580 c Black
-3 82 0.0248 c Black
-3 83 0.0391 c Black
-3 85 0.0290 c Black
-3 86 0.1014 c Black
-3 88 0.0518 c Black
-3 89 0.0978 c Black
-3 91 0.0109 c Black
-3 92 0.0316 c Black
-3 93 0.1087 c Black
-3 96 0.1553 c Black
-3 97 0.0253 c Black
-3 99 0.1304 c Black
-3 100 0.0248 c Black
-3 104 0.0253 c Black
+3 15 0.0093 c Black
+3 16 0.1767 c Red
+3 17 0.0925 c Black
+3 19 0.1768 c Red
+3 20 0.0178 c Black
+3 21 0.0366 c Black
+3 22 0.0473 c Black
+3 23 0.0217 c Black
+3 25 0.0079 c Black
+3 26 0.4459 c Red
+3 27 0.3062 c Red
+3 28 0.0604 c Black
+3 29 0.5585 c Red
+3 30 0.0870 c Black
+3 32 0.0711 c Black
+3 33 0.0348 c Black
+3 35 0.1026 c Black
+3 37 0.0540 c Black
+3 38 0.0696 c Black
+3 40 0.0435 c Black
+3 44 0.1639 c Black
+3 45 0.0097 c Black
+3 46 0.2505 c Red
+3 48 0.2856 c Red
+3 50 0.0248 c Black
+3 55 0.0261 c Black
+3 59 0.0217 c Black
+3 61 0.0348 c Black
+3 62 0.0435 c Black
+3 63 0.0290 c Black
+3 65 0.0978 c Black
+3 68 0.0217 c Black
+3 71 0.1159 c Black
+3 73 0.0696 c Black
+3 74 0.1890 c Red
+3 76 0.0988 c Black
+3 79 0.0290 c Black
+3 80 0.0580 c Black
+3 81 0.0248 c Black
+3 82 0.0391 c Black
+3 84 0.0290 c Black
+3 85 0.1014 c Black
+3 87 0.0518 c Black
+3 88 0.0978 c Black
+3 90 0.0109 c Black
+3 91 0.0316 c Black
+3 92 0.1087 c Black
+3 95 0.1553 c Black
+3 96 0.0253 c Black
+3 98 0.1304 c Black
+3 99 0.0248 c Black
+3 103 0.0253 c Black
 4 7 0.0593 c Black
-4 8 0.0541 c Black
+4 8 0.0677 c Black
 4 9 0.0217 c Black
 4 10 0.0065 c Black
 4 11 0.1429 c Yellow
 4 12 0.0222 c Black
 4 13 0.0093 c Black
 4 14 0.0193 c Black
-4 15 0.0434 c Black
-4 16 0.0423 c Black
-4 17 0.1429 c Black
-4 18 0.0851 c Black
-4 19 0.0103 c Black
-4 20 0.4939 c Black
-4 21 0.0202 c Black
-4 22 0.0936 c Yellow
-4 25 0.1368 c Yellow
-4 26 0.0455 c Black
-4 30 0.0111 c Black
-4 31 0.2222 c Yellow
-4 35 0.0847 c Black
-4 36 0.2204 c Yellow
-4 41 0.1111 c Yellow
-4 46 0.0247 c Black
-4 49 0.0404 c Black
-4 62 0.0889 c Black
-4 74 0.1000 c Yellow
-4 75 0.0193 c Black
-4 76 0.0889 c Black
-4 91 0.1111 c Yellow
-4 92 0.0455 c Black
-4 96 0.0992 c Yellow
-4 97 0.0930 c Yellow
-4 101 0.0635 c Black
-4 104 0.0103 c Black
-5 6 0.1786 c Gray95
+4 15 0.0423 c Black
+4 16 0.1429 c Black
+4 17 0.0851 c Black
+4 18 0.0103 c Black
+4 19 0.4939 c Black
+4 20 0.0202 c Black
+4 21 0.0936 c Yellow
+4 24 0.1368 c Yellow
+4 25 0.0455 c Black
+4 29 0.0111 c Black
+4 30 0.2222 c Yellow
+4 34 0.0847 c Black
+4 35 0.2204 c Yellow
+4 40 0.1111 c Yellow
+4 45 0.0247 c Black
+4 48 0.0404 c Black
+4 61 0.0889 c Black
+4 73 0.1000 c Yellow
+4 74 0.0193 c Black
+4 75 0.0889 c Black
+4 90 0.1111 c Yellow
+4 91 0.0455 c Black
+4 95 0.0992 c Yellow
+4 96 0.0930 c Yellow
+4 100 0.0635 c Black
+4 103 0.0103 c Black
+5 6 0.1786 c Black
 5 7 0.0238 c Black
-5 8 0.0386 c Black
-5 19 0.1495 c Black
-5 21 0.1299 c Black
-5 104 0.0664 c Black
+5 8 0.0612 c Green
+5 18 0.1495 c Black
+5 20 0.1299 c Black
+5 103 0.0664 c Black
 6 7 0.0833 c Black
-6 18 0.0532 c Black
-6 30 0.0625 c Black
-6 38 0.0862 c Black
-6 47 0.0298 c Black
-6 104 0.0581 c Black
-7 8 0.2534 c Black
+6 17 0.0532 c Black
+6 29 0.0625 c Black
+6 37 0.0862 c Black
+6 46 0.0298 c Black
+6 103 0.0581 c Lavender
+7 8 0.4571 c Black
 7 9 0.0254 c Red
 7 10 0.0784 c Black
 7 12 0.0375 c Black
 7 13 0.0069 c Black
-7 15 0.2033 c Black
-7 17 0.1071 c Red
-7 19 0.0484 c Black
-7 20 0.0567 c Red
-7 21 0.0341 c Black
-7 22 0.0175 c Black
-7 27 0.0310 c Red
-7 28 0.0312 c Red
-7 29 0.0185 c Black
-7 30 0.1120 c Red
-7 33 0.0606 c Black
-7 35 0.0159 c Black
-7 36 0.0342 c Black
-7 38 0.0718 c Black
-7 40 0.0417 c Black
-7 47 0.0040 c Red
-7 49 0.0473 c Red
-7 50 0.0333 c Black
-7 62 0.0375 c Black
-7 63 0.0833 c Black
-7 72 0.0556 c Black
-7 74 0.0333 c Black
-7 80 0.0556 c Black
-7 86 0.0159 c Black
-7 91 0.1302 c Black
-7 92 0.0947 c Black
-7 93 0.0333 c Black
-7 96 0.0268 c Black
-7 98 0.0667 c Black
-7 100 0.0476 c Black
-7 104 0.0078 c Black
-8 9 0.2373 c Black
-8 10 0.0497 c Green
-8 12 0.0068 c Black
-8 15 0.0297 c Black
-8 17 0.0343 c Black
-8 22 0.0284 c Black
-8 23 0.0235 c Black
-8 27 0.0503 c Black
-8 30 0.0060 c Black
-8 36 0.0354 c Black
-8 38 0.0419 c Green
-8 47 0.0145 c Black
-8 49 0.0123 c Black
-8 63 0.0760 c Black
-8 65 0.1802 c Black
-8 67 0.1802 c Black
-8 70 0.1351 c Black
-8 86 0.0579 c Black
-8 91 0.1351 c Black
-8 92 0.0983 c Black
+7 16 0.1071 c Red
+7 18 0.0484 c Black
+7 19 0.0567 c Red
+7 20 0.0341 c Black
+7 21 0.0175 c Black
+7 26 0.0310 c Red
+7 27 0.0312 c Red
+7 28 0.0185 c Black
+7 29 0.1120 c Red
+7 32 0.0606 c Black
+7 34 0.0159 c Black
+7 35 0.0342 c Black
+7 37 0.0718 c Black
+7 39 0.0417 c Black
+7 46 0.0040 c Red
+7 48 0.0473 c Red
+7 49 0.0333 c Black
+7 61 0.0375 c Black
+7 62 0.0833 c Black
+7 71 0.0556 c Black
+7 73 0.0333 c Black
+7 79 0.0556 c Black
+7 85 0.0159 c Black
+7 90 0.1302 c Black
+7 91 0.0947 c Black
+7 92 0.0333 c Black
+7 95 0.0268 c Black
+7 97 0.0667 c Black
+7 99 0.0476 c Black
+7 103 0.0078 c Black
+8 9 0.2613 c Black
+8 10 0.0504 c Green
+8 12 0.0048 c Black
+8 16 0.0378 c Black
+8 19 0.0032 c Black
+8 21 0.0201 c Black
+8 22 0.2029 c Black
+8 26 0.1085 c Black
+8 27 0.0159 c Black
+8 29 0.0042 c Black
+8 32 0.0390 c Black
+8 35 0.0999 c Black
+8 37 0.0296 c Black
+8 44 0.1172 c Green
+8 46 0.0726 c Black
+8 48 0.0195 c Black
+8 60 0.1905 c Green
+8 62 0.1488 c Green
+8 64 0.1270 c Green
+8 66 0.1270 c Green
+8 68 0.0476 c Black
+8 69 0.0952 c Green
+8 74 0.0166 c Black
+8 79 0.0635 c Green
+8 85 0.0408 c Green
+8 87 0.0181 c Black
+8 90 0.0952 c Black
+8 91 0.2121 c Green
+8 92 0.0381 c Black
 9 10 0.0646 c Black
 9 12 0.0061 c Black
 9 14 0.0212 c Black
-9 15 0.0268 c Black
-9 17 0.1568 c Red
-9 18 0.0415 c Black
-9 19 0.1390 c Black
-9 20 0.0164 c Red
-9 27 0.2297 c Red
-9 28 0.0457 c Red
-9 30 0.2290 c Red
-9 36 0.0320 c Black
-9 38 0.0378 c Black
-9 39 0.0488 c Black
-9 45 0.1501 c Black
-9 47 0.1176 c Red
-9 49 0.2245 c Red
-9 62 0.0244 c Black
-9 64 0.3252 c Black
-9 75 0.0477 c Red
-9 86 0.4704 c Black
-9 92 0.0222 c Black
-9 95 0.0325 c Black
-9 97 0.0113 c Black
-9 104 0.1021 c Black
+9 16 0.1568 c Red
+9 17 0.0415 c Black
+9 18 0.1390 c Black
+9 19 0.0164 c Red
+9 26 0.2297 c Red
+9 27 0.0457 c Red
+9 29 0.2290 c Red
+9 35 0.0320 c Black
+9 37 0.0378 c Black
+9 38 0.0488 c Black
+9 44 0.1501 c Black
+9 46 0.1176 c Red
+9 48 0.2245 c Red
+9 61 0.0244 c Black
+9 63 0.3252 c Black
+9 74 0.0477 c Red
+9 85 0.4704 c Black
+9 91 0.0222 c Black
+9 94 0.0325 c Black
+9 96 0.0113 c Black
+9 103 0.1021 c Black
 10 13 0.0276 c Black
 10 14 0.0256 c Black
-10 17 0.0584 c Black
-10 18 0.0125 c Black
-10 19 0.0547 c Green
-10 20 0.0791 c Black
-10 23 0.0256 c Black
-10 27 0.0547 c Black
-10 29 0.0327 c Green
-10 30 0.0408 c Black
-10 33 0.1070 c Green
-10 36 0.0386 c Black
-10 38 0.3245 c Green
-10 39 0.0588 c Green
-10 45 0.0452 c Green
-10 47 0.0280 c Black
-10 49 0.0134 c Black
-10 86 0.0280 c Black
-10 88 0.0630 c Green
-10 93 0.1324 c Green
-10 96 0.0210 c Black
-10 102 0.2941 c Green
-10 104 0.2189 c Green
+10 16 0.0584 c Black
+10 17 0.0125 c Black
+10 18 0.0547 c Black
+10 19 0.0791 c Black
+10 22 0.0256 c Black
+10 26 0.0547 c Black
+10 28 0.0327 c Black
+10 29 0.0408 c Black
+10 32 0.1070 c Black
+10 35 0.0386 c Black
+10 37 0.3245 c Black
+10 38 0.0588 c Black
+10 44 0.0452 c Green
+10 46 0.0280 c Black
+10 48 0.0134 c Black
+10 85 0.0280 c Green
+10 87 0.0630 c Black
+10 92 0.1324 c Black
+10 95 0.0210 c Black
+10 101 0.2941 c Black
+10 103 0.2189 c Black
 11 12 0.0179 c Black
-11 16 0.0340 c Black
-11 18 0.0304 c Black
-11 35 0.2721 c Black
-11 36 0.0527 c Yellow
-11 47 0.0383 c Black
-11 58 0.3571 c Black
-11 96 0.0510 c Yellow
-11 104 0.2076 c Black
+11 15 0.0340 c Black
+11 17 0.0304 c Black
+11 34 0.2721 c Black
+11 35 0.0527 c Yellow
+11 46 0.0383 c Black
+11 57 0.3571 c Black
+11 95 0.0510 c Yellow
+11 103 0.2076 c Black
 12 13 0.0104 c Black
-12 16 0.0744 c Blue
-12 17 0.0714 c Black
-12 18 0.2154 c Blue
-12 19 0.0465 c Black
-12 20 0.5557 c Black
-12 21 0.5682 c Blue
-12 23 0.0870 c Blue
-12 27 0.0262 c Black
-12 30 0.0125 c Black
-12 35 0.0238 c Black
-12 36 0.0082 c Black
-12 38 0.0172 c Black
-12 43 0.0714 c Blue
-12 47 0.0238 c Black
-12 50 0.2000 c Blue
-12 56 0.1333 c Blue
-12 62 0.1562 c Blue
-12 69 0.2500 c Blue
-12 76 0.1000 c Blue
-12 92 0.0227 c Black
-12 97 0.0262 c Black
-12 98 0.4000 c Blue
+12 15 0.0744 c Blue
+12 16 0.0714 c Black
+12 17 0.2154 c Blue
+12 18 0.0465 c Black
+12 19 0.5557 c Black
+12 20 0.5682 c Blue
+12 22 0.0870 c Blue
+12 26 0.0262 c Black
+12 29 0.0125 c Black
+12 34 0.0238 c Black
+12 35 0.0082 c Black
+12 37 0.0172 c Black
+12 42 0.0714 c Blue
+12 46 0.0238 c Black
+12 49 0.2000 c Blue
+12 55 0.1333 c Blue
+12 61 0.1562 c Blue
+12 68 0.2500 c Blue
+12 75 0.1000 c Blue
+12 91 0.0227 c Black
+12 96 0.0262 c Black
+12 97 0.4000 c Blue
 13 14 0.2264 c Pink
-13 19 0.0436 c Black
-13 20 0.0630 c Black
-13 21 0.0379 c Black
-13 28 0.0781 c Black
-13 36 0.0546 c Black
-13 43 0.4762 c Black
-13 47 0.0099 c Black
-13 48 0.1190 c Pink
-13 53 0.1190 c Pink
-13 82 0.2679 c Pink
-13 88 0.0397 c Black
-14 19 0.0910 c Black
-14 22 0.3661 c Black
-14 23 0.0756 c Black
-14 27 0.0404 c Black
-14 30 0.0193 c Black
-14 38 0.1349 c Black
-14 48 0.2484 c Pink
-15 17 0.0155 c Black
-15 23 0.2651 c Black
-15 27 0.0510 c Black
-15 33 0.0443 c Black
-15 36 0.1000 c Black
-15 45 0.1689 c Black
-15 47 0.0726 c Black
-15 63 0.0610 c Dandelion
-15 92 0.0998 c Dandelion
-16 18 0.0811 c Blue
-16 20 0.0500 c Black
-16 26 0.5303 c Black
-16 36 0.0625 c Black
-16 40 0.1190 c Black
-16 44 1.0714 c Black
-16 46 0.1190 c Black
-16 47 0.0709 c Black
-16 49 0.0216 c Black
-16 83 0.0952 c Black
-16 95 0.0635 c Black
-17 18 0.1216 c Black
-17 19 0.0591 c Black
-17 20 0.0480 c Red
-17 25 0.0488 c Black
-17 27 0.0591 c Red
-17 30 0.1429 c Red
-17 36 0.0416 c Black
-17 38 0.0219 c Black
-17 46 0.0353 c Black
-17 47 0.1890 c Red
-17 49 0.1299 c Red
-17 56 0.0423 c Black
-17 60 0.0794 c Black
-17 63 0.0397 c Black
-17 64 0.1058 c Black
-17 82 0.0907 c Black
-17 88 0.0680 c Black
-17 91 0.0397 c Black
-17 92 0.0289 c Black
-17 96 0.0907 c Black
-17 97 0.0923 c Black
-17 104 0.0591 c Black
-18 20 0.0072 c Black
-18 21 0.0870 c Blue
-18 30 0.0591 c Black
-18 36 0.0314 c Black
-18 38 0.0293 c Black
-18 50 0.0851 c Blue
-18 91 0.0532 c Black
-18 95 0.0567 c Black
-18 96 0.1900 c Black
-18 101 0.1216 c Black
-19 22 0.0490 c Black
-19 23 0.0404 c Black
-19 27 0.0216 c Black
-19 36 0.0152 c Black
-19 47 0.0249 c Black
-19 49 0.0211 c Black
-19 59 0.2326 c Black
-19 64 0.1550 c Black
-19 88 0.0443 c Green
-19 100 0.2990 c Black
-20 21 0.0344 c Black
-20 22 0.0177 c Black
-20 23 0.0146 c Black
-20 24 0.0420 c Black
-20 25 0.0259 c Black
-20 27 0.0313 c Red
-20 28 0.0140 c Red
-20 29 0.0187 c Black
-20 33 0.0344 c Black
-20 35 0.0160 c Black
-20 36 0.0124 c Black
-20 38 0.1043 c Black
-20 45 0.0582 c Black
-20 46 0.0187 c Black
-20 47 0.0090 c Red
-20 49 0.0688 c Red
-20 50 0.0336 c Black
-20 56 0.0224 c Black
-20 62 0.0672 c Black
-20 63 0.1313 c Black
-20 69 0.1681 c Black
-20 76 0.0672 c Black
-20 77 0.0306 c Black
-20 83 0.0336 c Black
-20 86 0.0160 c Black
-20 92 0.0955 c Black
-20 93 0.0336 c Black
-20 96 0.0120 c Black
-20 97 0.1251 c Black
-20 98 0.1513 c Black
-20 101 0.0480 c Black
-20 102 0.1681 c Black
-21 35 0.0866 c Black
-21 50 0.1818 c Blue
-21 62 0.0909 c Blue
-21 103 0.6061 c Black
-22 75 0.2059 c Black
-22 81 0.7018 c Black
-23 27 0.0910 c Black
-23 36 0.0285 c Black
-23 38 0.0600 c Black
-23 45 0.1338 c Black
-23 47 0.0207 c Black
-23 63 0.1087 c Black
-25 49 0.0699 c Black
-25 88 0.1465 c Black
-25 97 0.0716 c Yellow
-26 35 0.0866 c GreenYellow
-26 46 0.1010 c GreenYellow
-26 97 0.0951 c Black
-27 29 0.1163 c Black
-27 30 0.1654 c Red
-27 45 0.1610 c Black
-27 47 0.0443 c Red
-27 49 0.1903 c Red
-27 51 0.1329 c Black
-27 63 0.1308 c Black
-27 64 0.3488 c Black
-27 66 0.2326 c Black
-27 75 0.2528 c Red
-27 88 0.0443 c Black
-27 93 0.2093 c Black
-28 30 0.1157 c Red
-28 36 0.0273 c Black
-28 47 0.0198 c Red
-28 49 0.1515 c Red
-28 53 0.2381 c Black
-28 74 0.1667 c Black
-28 82 0.2381 c Black
-28 99 0.5556 c Black
-29 30 0.0247 c Black
-29 38 0.0766 c Green
-29 49 0.8081 c Black
-29 51 1.9841 c Black
-29 53 0.7143 c Black
-29 92 0.1010 c Black
-30 36 0.0455 c Black
-30 38 0.0613 c Black
-30 39 0.1000 c Black
-30 45 0.0342 c Black
-30 46 0.0556 c Black
-30 47 0.1323 c Red
-30 49 0.3056 c Red
-30 53 0.0635 c Black
-30 56 0.0667 c Black
-30 60 0.0556 c Black
-30 62 0.1389 c Black
-30 63 0.0625 c Black
-30 64 0.0741 c Black
-30 66 0.1111 c Black
-30 74 0.0444 c Black
-30 75 0.0193 c Red
-30 77 0.0404 c Black
-30 85 0.0741 c Black
-30 86 0.0847 c Black
-30 92 0.0808 c Black
-30 96 0.0992 c Black
-30 97 0.0646 c Black
-33 63 0.1136 c Black
-33 90 0.9091 c Black
-33 96 0.0649 c Black
-35 58 1.0714 c Black
-36 37 0.0729 c Black
-36 38 0.0226 c Black
-36 46 0.0364 c Black
-36 47 0.0312 c Black
-36 49 0.0335 c Black
-36 59 0.0729 c Black
-36 72 0.1093 c Black
-36 74 0.1475 c Yellow
-36 77 0.0596 c Black
-36 86 0.0312 c Black
-36 95 0.0437 c Black
-36 96 0.1464 c Yellow
-36 97 0.0953 c Yellow
-36 104 0.0343 c Black
-37 47 0.0529 c Black
-38 47 0.0369 c Black
-38 49 0.0313 c Black
-38 63 0.0862 c Black
-38 86 0.0657 c Black
-38 97 0.0321 c Black
-39 47 0.1071 c Black
-45 47 0.0824 c Black
-45 49 0.0699 c Black
-46 47 0.0595 c Black
-46 97 0.1163 c Black
-47 49 0.0108 c Red
-47 62 0.0238 c Black
-47 71 0.0680 c Black
-47 75 0.0828 c Red
-47 85 0.0794 c Black
-47 86 0.3628 c Black
-47 88 0.0907 c Black
-47 92 0.0866 c Black
-47 104 0.5426 c Black
-49 51 0.5195 c Black
-49 63 0.0568 c Black
-49 86 0.0433 c Black
-49 92 0.0413 c Black
-53 82 0.8163 c Pink
-56 62 0.5333 c Blue
-56 83 0.2667 c Black
-57 91 0.5000 c Black
-63 75 0.1087 c Black
-63 92 0.1136 c Dandelion
-65 92 0.6061 c Dandelion
-75 81 1.3043 c Black
-86 88 0.0907 c Black
-86 104 0.0443 c Black
-87 104 0.6977 c Black
-88 104 0.0997 c Green
-95 97 0.7597 c Black
-96 104 0.0332 c Black
+13 18 0.0436 c Pink
+13 19 0.0630 c Black
+13 20 0.0379 c Black
+13 27 0.0781 c Black
+13 35 0.0546 c Black
+13 42 0.4762 c Black
+13 46 0.0099 c Black
+13 47 0.1190 c Black
+13 52 0.1190 c Black
+13 81 0.2679 c Black
+13 87 0.0397 c Pink
+14 18 0.0910 c Pink
+14 21 0.3661 c Black
+14 22 0.0756 c Black
+14 26 0.0404 c Black
+14 29 0.0193 c Black
+14 37 0.1349 c Black
+14 47 0.2484 c Black
+15 17 0.0811 c Blue
+15 19 0.0500 c Black
+15 25 0.5303 c Black
+15 35 0.0625 c Black
+15 39 0.1190 c Black
+15 43 1.0714 c Black
+15 45 0.1190 c Black
+15 46 0.0709 c Black
+15 48 0.0216 c Black
+15 82 0.0952 c Black
+15 94 0.0635 c Black
+16 17 0.1216 c Black
+16 18 0.0591 c Black
+16 19 0.0480 c Red
+16 24 0.0488 c Black
+16 26 0.0591 c Red
+16 29 0.1429 c Red
+16 35 0.0416 c Black
+16 37 0.0219 c Black
+16 45 0.0353 c Black
+16 46 0.1890 c Red
+16 48 0.1299 c Red
+16 55 0.0423 c Black
+16 59 0.0794 c Black
+16 62 0.0397 c Black
+16 63 0.1058 c Black
+16 81 0.0907 c Black
+16 87 0.0680 c Black
+16 90 0.0397 c Black
+16 91 0.0289 c Black
+16 95 0.0907 c Black
+16 96 0.0923 c Black
+16 103 0.0591 c Black
+17 19 0.0072 c Black
+17 20 0.0870 c Blue
+17 29 0.0591 c Black
+17 35 0.0314 c Black
+17 37 0.0293 c Black
+17 49 0.0851 c Blue
+17 90 0.0532 c Black
+17 94 0.0567 c Black
+17 95 0.1900 c Black
+17 100 0.1216 c Black
+18 21 0.0490 c Black
+18 22 0.0404 c Black
+18 26 0.0216 c Black
+18 35 0.0152 c Black
+18 46 0.0249 c Black
+18 48 0.0211 c Black
+18 58 0.2326 c Pink
+18 63 0.1550 c Pink
+18 87 0.0443 c Pink
+18 99 0.2990 c Pink
+19 20 0.0344 c Black
+19 21 0.0177 c Black
+19 22 0.0146 c Black
+19 23 0.0420 c Black
+19 24 0.0259 c Black
+19 26 0.0313 c Red
+19 27 0.0140 c Red
+19 28 0.0187 c Black
+19 32 0.0344 c Black
+19 34 0.0160 c Black
+19 35 0.0124 c Black
+19 37 0.1043 c Black
+19 44 0.0582 c Black
+19 45 0.0187 c Black
+19 46 0.0090 c Red
+19 48 0.0688 c Red
+19 49 0.0336 c Black
+19 55 0.0224 c Black
+19 61 0.0672 c Black
+19 62 0.1313 c Black
+19 68 0.1681 c Black
+19 75 0.0672 c Black
+19 76 0.0306 c Black
+19 82 0.0336 c Black
+19 85 0.0160 c Black
+19 91 0.0955 c Black
+19 92 0.0336 c Black
+19 95 0.0120 c Black
+19 96 0.1251 c Black
+19 97 0.1513 c Black
+19 100 0.0480 c Black
+19 101 0.1681 c Black
+20 34 0.0866 c Black
+20 49 0.1818 c Blue
+20 61 0.0909 c Blue
+20 102 0.6061 c Black
+21 74 0.2059 c Black
+21 80 0.7018 c Black
+22 26 0.0910 c Black
+22 35 0.0285 c Black
+22 37 0.0600 c Black
+22 44 0.1338 c Black
+22 46 0.0207 c Black
+22 62 0.1087 c Black
+24 48 0.0699 c Black
+24 87 0.1465 c Black
+24 96 0.0716 c Yellow
+25 34 0.0866 c GreenYellow
+25 45 0.1010 c GreenYellow
+25 96 0.0951 c Black
+26 28 0.1163 c Black
+26 29 0.1654 c Red
+26 44 0.1610 c Black
+26 46 0.0443 c Red
+26 48 0.1903 c Red
+26 50 0.1329 c Black
+26 62 0.1308 c Black
+26 63 0.3488 c Black
+26 65 0.2326 c Black
+26 74 0.2528 c Red
+26 87 0.0443 c Black
+26 92 0.2093 c Black
+27 29 0.1157 c Red
+27 35 0.0273 c Black
+27 46 0.0198 c Red
+27 48 0.1515 c Red
+27 52 0.2381 c Black
+27 73 0.1667 c Black
+27 81 0.2381 c Black
+27 98 0.5556 c Black
+28 29 0.0247 c Black
+28 37 0.0766 c Dandelion
+28 48 0.8081 c Black
+28 50 1.9841 c Dandelion
+28 52 0.7143 c Dandelion
+28 91 0.1010 c Black
+29 35 0.0455 c Black
+29 37 0.0613 c Black
+29 38 0.1000 c Black
+29 44 0.0342 c Black
+29 45 0.0556 c Black
+29 46 0.1323 c Red
+29 48 0.3056 c Red
+29 52 0.0635 c Black
+29 55 0.0667 c Black
+29 59 0.0556 c Black
+29 61 0.1389 c Black
+29 62 0.0625 c Black
+29 63 0.0741 c Black
+29 65 0.1111 c Black
+29 73 0.0444 c Black
+29 74 0.0193 c Red
+29 76 0.0404 c Black
+29 84 0.0741 c Black
+29 85 0.0847 c Black
+29 91 0.0808 c Black
+29 95 0.0992 c Black
+29 96 0.0646 c Black
+32 62 0.1136 c Black
+32 89 0.9091 c Gray95
+32 95 0.0649 c Black
+34 57 1.0714 c Black
+35 36 0.0729 c Black
+35 37 0.0226 c Black
+35 45 0.0364 c Black
+35 46 0.0312 c Black
+35 48 0.0335 c Black
+35 58 0.0729 c Black
+35 71 0.1093 c Black
+35 73 0.1475 c Yellow
+35 76 0.0596 c Black
+35 85 0.0312 c Black
+35 94 0.0437 c Black
+35 95 0.1464 c Yellow
+35 96 0.0953 c Yellow
+35 103 0.0343 c Black
+36 46 0.0529 c Black
+37 46 0.0369 c Black
+37 48 0.0313 c Black
+37 62 0.0862 c Black
+37 85 0.0657 c Black
+37 96 0.0321 c Black
+38 46 0.1071 c Black
+44 46 0.0824 c Black
+44 48 0.0699 c Black
+45 46 0.0595 c Black
+45 96 0.1163 c Black
+46 48 0.0108 c Red
+46 61 0.0238 c Black
+46 70 0.0680 c Black
+46 74 0.0828 c Red
+46 84 0.0794 c Black
+46 85 0.3628 c Black
+46 87 0.0907 c Black
+46 91 0.0866 c Black
+46 103 0.5426 c Black
+48 50 0.5195 c Black
+48 62 0.0568 c Black
+48 85 0.0433 c Black
+48 91 0.0413 c Black
+52 81 0.8163 c Black
+55 61 0.5333 c Blue
+55 82 0.2667 c Black
+56 90 0.5000 c Black
+62 74 0.1087 c Black
+62 91 0.1136 c Green
+64 91 0.6061 c Green
+74 80 1.3043 c Black
+85 87 0.0907 c Black
+85 103 0.0443 c Black
+86 103 0.6977 c Lavender
+87 103 0.0997 c Black
+94 96 0.7597 c Black
+95 103 0.0332 c Black

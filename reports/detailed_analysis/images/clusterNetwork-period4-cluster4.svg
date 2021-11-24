@@ -13,44 +13,44 @@
 <line y2="799" stroke-width="1" x1="0" x2="799" stroke="black" y1="799"/>
 <line y2="799" stroke-width="1" x1="0" x2="0" stroke="black" y1="0"/>
 <line y2="799" stroke-width="1" x1="799" x2="799" stroke="black" y1="0"/>
-<line x1="677.1638597533861" x2="400.0" y1="514.8050297095269" style="stroke-width:0.049682034976152624;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
-<line x1="677.1638597533861" x2="131.73241904208663" y1="514.8050297095269" style="stroke-width:0.04193849021435228;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="534.2851630188138" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="571.0967910804892" y1="400.0" style="stroke-width:0.05471956224350205;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="646.4262325361474" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="410.70770015169416" y1="400.0" style="stroke-width:0.032679738562091505;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="699.8088476970975" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="246.91899008173016" y1="400.0" style="stroke-width:0.10695187165775401;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="658.0042720623102" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="131.73241904208663" y1="400.0" style="stroke-width:0.32454361054766734;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="534.2851630188138" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="101.71890946843081" y1="400.0" style="stroke-width:0.058823529411764705;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="367.93146353046615" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="166.40753858507347" y1="400.0" style="stroke-width:0.04524886877828055;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="211.75929778574437" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="305.26012371549245" y1="400.0" style="stroke-width:0.06302521008403361;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="115.35222494880412" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="474.1919501662645" y1="400.0" style="stroke-width:0.1323529411764706;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="109.31880946554776" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="619.5683566545174" y1="400.0" style="stroke-width:0.29411764705882354;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="195.5746181218325" stroke="black" stroke-width="1"/>
-<line x1="400.0" x2="695.2333613008348" y1="400.0" style="stroke-width:0.2188782489740082;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="346.73404112370866" stroke="black" stroke-width="1"/>
-<line x1="571.0967910804892" x2="305.26012371549245" y1="646.4262325361474" style="stroke-width:0.04429678848283499;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="115.35222494880412" stroke="black" stroke-width="1"/>
-<line x1="410.70770015169416" x2="131.73241904208663" y1="699.8088476970975" style="stroke-width:0.07662835249042145;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="534.2851630188138" stroke="black" stroke-width="1"/>
-<line x1="305.26012371549245" x2="695.2333613008348" y1="115.35222494880412" style="stroke-width:0.09966777408637872;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="346.73404112370866" stroke="black" stroke-width="1"/>
-<circle id="circle0" r="45.73913043478261" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="677.1638597533861" cy="514.8050297095269"/>
-<text x="677.1638597533861" y="514.8050297095269" id="text50" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">DIGIT RECOGNITION</text>
-<circle id="circle1" r="43.652173913043484" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="400.0" cy="400.0"/>
-<text x="400.0" y="400.0" id="text51" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CLASSIFICATION</text>
-<circle id="circle2" r="34.95652173913044" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="571.0967910804892" cy="646.4262325361474"/>
-<text x="571.0967910804892" y="646.4262325361474" id="text52" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SIGNATUR VERIFICATION</text>
-<circle id="circle3" r="26.26086956521739" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="410.70770015169416" cy="699.8088476970975"/>
-<text x="410.70770015169416" y="699.8088476970975" id="text53" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SCRIPT IDENTIFICATION</text>
-<circle id="circle4" r="27.652173913043477" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="246.91899008173016" cy="658.0042720623102"/>
-<text x="246.91899008173016" y="658.0042720623102" id="text54" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FUZZY LOGIC</text>
-<circle id="circle5" r="30.08695652173913" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="131.73241904208663" cy="534.2851630188138"/>
-<text x="131.73241904208663" y="534.2851630188138" id="text55" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">ENSEMBLE CLASSIFICATION</text>
-<circle id="circle6" r="23.47826086956522" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="101.71890946843081" cy="367.93146353046615"/>
-<text x="101.71890946843081" y="367.93146353046615" id="text56" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HOG</text>
-<circle id="circle7" r="24.52173913043478" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="166.40753858507347" cy="211.75929778574437"/>
-<text x="166.40753858507347" y="211.75929778574437" id="text57" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHAIN-CODE</text>
-<circle id="circle8" r="27.304347826086957" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="305.26012371549245" cy="115.35222494880412"/>
-<text x="305.26012371549245" y="115.35222494880412" id="text58" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FEATURE-REDUCTION</text>
-<circle id="circle9" r="23.47826086956522" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="474.1919501662645" cy="109.31880946554776"/>
-<text x="474.1919501662645" y="109.31880946554776" id="text59" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">RBF</text>
-<circle id="circle10" r="20.695652173913043" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="619.5683566545174" cy="195.5746181218325"/>
-<text x="619.5683566545174" y="195.5746181218325" id="text510" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">BKS</text>
-<circle id="circle11" r="34.95652173913044" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="695.2333613008348" cy="346.73404112370866"/>
-<text x="695.2333613008348" y="346.73404112370866" id="text511" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHINESE CHARACTER RECOGNITION</text>
+<line x1="677.1638597533861" x2="400.0" y1="514.8050297095269" style="stroke-width:0.061224489795918366;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="400.0" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="571.0967910804892" y1="400.0" style="stroke-width:0.05042016806722689;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="646.4262325361474" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="410.70770015169416" y1="400.0" style="stroke-width:0.11721611721611722;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="699.8088476970975" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="246.91899008173016" y1="400.0" style="stroke-width:0.1904761904761905;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="658.0042720623102" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="131.73241904208663" y1="400.0" style="stroke-width:0.1488095238095238;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="534.2851630188138" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="101.71890946843081" y1="400.0" style="stroke-width:0.12698412698412698;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="367.93146353046615" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="166.40753858507347" y1="400.0" style="stroke-width:0.12698412698412698;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="211.75929778574437" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="305.26012371549245" y1="400.0" style="stroke-width:0.09523809523809525;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="115.35222494880412" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="474.1919501662645" y1="400.0" style="stroke-width:0.06349206349206349;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="109.31880946554776" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="619.5683566545174" y1="400.0" style="stroke-width:0.04081632653061225;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="195.5746181218325" stroke="black" stroke-width="1"/>
+<line x1="400.0" x2="695.2333613008348" y1="400.0" style="stroke-width:0.21212121212121213;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="346.73404112370866" stroke="black" stroke-width="1"/>
+<line x1="571.0967910804892" x2="410.70770015169416" y1="646.4262325361474" style="stroke-width:0.04524886877828055;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="699.8088476970975" stroke="black" stroke-width="1"/>
+<line x1="571.0967910804892" x2="619.5683566545174" y1="646.4262325361474" style="stroke-width:0.028011204481792718;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="195.5746181218325" stroke="black" stroke-width="1"/>
+<line x1="131.73241904208663" x2="695.2333613008348" y1="534.2851630188138" style="stroke-width:0.11363636363636365;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="346.73404112370866" stroke="black" stroke-width="1"/>
+<line x1="101.71890946843081" x2="695.2333613008348" y1="367.93146353046615" style="stroke-width:0.6060606060606061;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:round;stroke-opacity:0.5" y2="346.73404112370866" stroke="black" stroke-width="1"/>
+<circle id="circle0" r="24.869565217391305" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="677.1638597533861" cy="514.8050297095269"/>
+<text x="677.1638597533861" y="514.8050297095269" id="text50" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">DNN</text>
+<circle id="circle1" r="56.52173913043478" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="400.0" cy="400.0"/>
+<text x="400.0" y="400.0" id="text51" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION</text>
+<circle id="circle2" r="43.652173913043484" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="571.0967910804892" cy="646.4262325361474"/>
+<text x="571.0967910804892" y="646.4262325361474" id="text52" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CLASSIFICATION</text>
+<circle id="circle3" r="24.52173913043478" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="410.70770015169416" cy="699.8088476970975"/>
+<text x="410.70770015169416" y="699.8088476970975" id="text53" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHAIN-CODE</text>
+<circle id="circle4" r="20.695652173913043" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="246.91899008173016" cy="658.0042720623102"/>
+<text x="246.91899008173016" y="658.0042720623102" id="text54" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">STATISTICAL FEATURE</text>
+<circle id="circle5" r="25.565217391304348" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="131.73241904208663" cy="534.2851630188138"/>
+<text x="131.73241904208663" y="534.2851630188138" id="text55" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MOMENTS</text>
+<circle id="circle6" r="21.043478260869566" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="101.71890946843081" cy="367.93146353046615"/>
+<text x="101.71890946843081" y="367.93146353046615" id="text56" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">FPGA</text>
+<circle id="circle7" r="21.043478260869566" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="166.40753858507347" cy="211.75929778574437"/>
+<text x="166.40753858507347" y="211.75929778574437" id="text57" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">AUTOENCODER</text>
+<circle id="circle8" r="21.391304347826086" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="305.26012371549245" cy="115.35222494880412"/>
+<text x="305.26012371549245" y="115.35222494880412" id="text58" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">AFFINE-TRANSFORMATION</text>
+<circle id="circle9" r="22.08695652173913" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="474.1919501662645" cy="109.31880946554776"/>
+<text x="474.1919501662645" y="109.31880946554776" id="text59" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">VOTING</text>
+<circle id="circle10" r="27.304347826086957" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="619.5683566545174" cy="195.5746181218325"/>
+<text x="619.5683566545174" y="195.5746181218325" id="text510" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">PCA</text>
+<circle id="circle11" r="27.652173913043477" style="fill:url(#sphereTheme);stroke-width:0.50000000000000000;fill-opacity:1;stroke-opacity:1" cx="695.2333613008348" cy="346.73404112370866"/>
+<text x="695.2333613008348" y="346.73404112370866" id="text511" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MLP</text>
 </svg>
 

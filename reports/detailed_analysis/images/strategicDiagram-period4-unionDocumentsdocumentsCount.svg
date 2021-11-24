@@ -20,23 +20,26 @@
 <circle id="circle15" r="60.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="740.0" cy="60.0"/>
 <text x="740.0" y="60.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHARACTER RECOGNITION<tspan x="740.0" id="text25" y="75.0">632</tspan>
 </text>
-<circle id="circle15" r="44.43037974683544" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="545.7142857142858" cy="448.5714285714286"/>
-<text x="545.7142857142858" y="448.5714285714286" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SEGMENTATION<tspan x="545.7142857142858" id="text25" y="463.5714285714286">386</tspan>
+<circle id="circle15" r="44.43037974683544" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="655.0" cy="400.0"/>
+<text x="655.0" y="400.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SEGMENTATION<tspan x="655.0" id="text25" y="415.0">386</tspan>
 </text>
-<circle id="circle15" r="38.48101265822785" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="642.8571428571428" cy="545.7142857142858"/>
-<text x="642.8571428571428" y="545.7142857142858" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CLASSIFICATION<tspan x="642.8571428571428" id="text25" y="560.7142857142858">292</tspan>
+<circle id="circle15" r="34.620253164556964" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="485.0" cy="485.0"/>
+<text x="485.0" y="485.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">NUMERAL RECOGNITION<tspan x="485.0" id="text25" y="500.0">231</tspan>
 </text>
-<circle id="circle15" r="33.860759493670884" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="448.57142857142856" cy="254.28571428571428"/>
-<text x="448.57142857142856" y="254.28571428571428" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HMM<tspan x="448.57142857142856" id="text25" y="269.2857142857143">219</tspan>
+<circle id="circle15" r="33.860759493670884" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="570.0" cy="230.0"/>
+<text x="570.0" y="230.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HMM<tspan x="570.0" id="text25" y="245.0">219</tspan>
 </text>
-<circle id="circle15" r="25.0" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="157.14285714285714" cy="157.14285714285722"/>
-<text x="157.14285714285714" y="157.14285714285722" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">WRITER IDENTIFICATION<tspan x="157.14285714285714" id="text25" y="172.14285714285722">79</tspan>
+<circle id="circle15" r="28.29113924050633" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="400.0" cy="570.0"/>
+<text x="400.0" y="570.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SIGNATUR VERIFICATION<tspan x="400.0" id="text25" y="585.0">131</tspan>
 </text>
-<circle id="circle15" r="24.620253164556964" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="351.4285714285714" cy="351.42857142857144"/>
-<text x="351.4285714285714" y="351.42857142857144" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">MLP<tspan x="351.4285714285714" id="text25" y="366.42857142857144">73</tspan>
+<circle id="circle15" r="23.60759493670886" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="230.0" cy="655.0"/>
+<text x="230.0" y="655.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HISTORICAL-DOCUMENTS<tspan x="230.0" id="text25" y="670.0">57</tspan>
 </text>
-<circle id="circle15" r="23.60759493670886" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="254.28571428571428" cy="642.8571428571429"/>
-<text x="254.28571428571428" y="642.8571428571429" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">HISTORICAL-DOCUMENTS<tspan x="254.28571428571428" id="text25" y="657.8571428571429">57</tspan>
+<circle id="circle15" r="23.60759493670886" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="145.0" cy="315.0"/>
+<text x="145.0" y="315.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">CHINESE CHARACTER RECOGNITION<tspan x="145.0" id="text25" y="330.0">57</tspan>
+</text>
+<circle id="circle15" r="23.227848101265824" style="opacity:1;fill:url(#sphereTheme);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.58200002;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" cx="315.0" cy="145.0"/>
+<text x="315.0" y="145.0" id="text23" style="font-size:12px;text-anchor:middle;fill:#000000;font-family:Verdana">SCRIPT IDENTIFICATION<tspan x="315.0" id="text25" y="160.0">51</tspan>
 </text>
 </svg>
 
